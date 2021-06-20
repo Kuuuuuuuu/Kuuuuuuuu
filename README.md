@@ -1,8 +1,8 @@
-### My GitHub Stats 🐥
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MelidaZ&theme=yeblu&count_private=true&include_all_commits=true)](#)
+### My GitHub Stats 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=MelidaZ&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117&hide=prs,issues)](#)
 
 ### Top Languages 🎲
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117)](#)
 
 ### Some Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=nord)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord)](#)
