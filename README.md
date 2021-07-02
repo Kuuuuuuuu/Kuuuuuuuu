@@ -8,4 +8,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord)](#)
 
 ## Spotify 🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217hsdjy2blc65cp43gbq5ini&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217hsdjy2blc65cp43gbq5ini&cover_image=true&theme=compact)](#)
