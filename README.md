@@ -8,4 +8,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord)](#)
 
 ## Spotify 🎵
-[![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/31wgdtovulrsqngiukket6f5a55i?si=GouGXmFTQ2-2cEzP1z4AkA)
+[![Spotify](https://spotify-drmg65jrz.vercel.app/api/spotify)](https://open.spotify.com/user/31wgdtovulrsqngiukket6f5a55i?si=GouGXmFTQ2-2cEzP1z4AkA&utm_source=copy-link&dl_branch=1)
