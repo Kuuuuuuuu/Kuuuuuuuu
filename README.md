@@ -17,3 +17,10 @@
     <p><b>Trophy 🏆<b></p>
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   </a>
+  <br>
+
+<p align="center">
+  <a href="#">
+    <p><b>Timeline 🕥<b></p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MelidaZ&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
+  </a>
