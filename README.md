@@ -18,9 +18,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   </a>
   <br>
-
-<p align="center">
-  <a href="#">
-    <p><b>Timeline 🕥<b></p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MelidaZ"/>
-  </a>
