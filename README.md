@@ -22,6 +22,5 @@
 <p align="center">
   <a href="#">
     <p><b>Discord<b></p>
-    <a href="https://discordapp.com/users/568093374662311956">
   </a>
-  <br>
+  <a href="https://discordapp.com/users/568093374662311956">
