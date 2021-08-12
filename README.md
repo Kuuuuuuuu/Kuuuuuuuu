@@ -23,4 +23,4 @@
   <a href="#">
     <p><b>Discord<b></p>
   </a>
-  <a href="https://discordapp.com/users/568093374662311956">
+  <a href="https://discordapp.com/users/568093374662311956"</a>
