@@ -18,9 +18,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   </a>
   <br>
-
-<p align="center">
-  <a href="#">
-    <p><b>Discord<b></p>
-  </a>
-  <a href="https://discordapp.com/users/568093374662311956"</a>
+  <a href="https://discordapp.com/users/568093374662311956"></a>
