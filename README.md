@@ -5,6 +5,9 @@
 ##### ✏️ My Main Language PHP, JS, HTML, Python
 ##### 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
 <br>
+![](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)
+
+
 <p align="center">
     <p><b>Github Stats 🎲<b></p>
     <img src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
