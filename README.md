@@ -5,7 +5,7 @@
 #### Currently Learning C, C#, TS
 #### My Main Language PHP, JS, HTML, Python
 #### Am Friendly and Cute too :3
-
+\n
 
 <p align="center">
     <p><b>Github Stats 🎲<b></p>
