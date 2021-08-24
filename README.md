@@ -1,11 +1,9 @@
-### My Name is Not or MelidaZ ♪
-#### Someone call me Notshrimp because My Name Notkung. kung is mean shrimp in thailand
-#### My Hobby Just Cosplay, Coding, Watching Anime, Playing Games
+### My Name is Not or MelidaZ or Notshrimp ♪
+#### My Hobby: Cosplay, Coding, Watch Anime, Play some Games
 #### Just Lazy Coder & Chill
 #### Currently Learning C, C#, TS
 #### My Main Language PHP, JS, HTML, Python
-#### Am Friendly and Cute too :3
-<br>
+#### I Just little kid like to Coding And I Friendly and Cute too :3
 <br>
 <p align="center">
     <p><b>Github Stats 🎲<b></p>
