@@ -5,7 +5,8 @@
 ##### ✏️ My Main Language PHP, JS, HTML, Python
 ##### 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
 <br>
-![](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)
+
+[![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)]
 
 
 <p align="center">
