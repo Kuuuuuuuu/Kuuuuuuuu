@@ -21,6 +21,10 @@
 <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
 </a>
 
+<a href="#">
+<img src="https://discord.c99.nl/widget/theme-1/!JustMelidaZ#9999.png"/>
+</a>
+
 <p align="center">
     <a href="#">
     <p><b>Github Stats 🎲<b></p>
