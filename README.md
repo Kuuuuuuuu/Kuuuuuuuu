@@ -14,10 +14,10 @@
 
 #### Magic Button
 
-###### - [![My Discord Bot](https://ayakabot.ml)]
-###### - [![My Minecraft Server](https://complexitymc.tk)]
-###### - [![My Discord Server](https://drip.complexitymc.tk)]
-<br>
+###### - [My Discord Bot](https://ayakabot.ml)
+###### - [My Minecraft Server](https://complexitymc.tk)
+###### - [My Discord Server](https://drip.complexitymc.tk)
+<h1></h1>
 
 [![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
 
