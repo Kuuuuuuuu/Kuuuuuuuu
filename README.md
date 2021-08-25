@@ -1,7 +1,7 @@
 #### 🥫 My Name is Not or MelidaZ or Notshrimp ♪
 ##### ☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games
 ##### 😪 Just Lazy Coder & Chill
-##### 📒 Currently Learning C, CSharp, Ruby, C++, Go, Java
+##### 📒 Currently Learning C, C#, Ruby, C++, Go, Java
 ##### ✏️ My Main Language PHP, JS, HTML, Python
 ##### 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
 
@@ -12,11 +12,11 @@
 ###### - [PHPStorm](https://www.jetbrains.com/phpstorm)
 ###### - [Notepad++](https://notepad-plus-plus.org/downloads)
 
-#### Magic Button(
+#### Magic Button
 
-###### - [My Discord Bot](https://ayakabot.ml)
-###### - [My Minecraft Server](https://complexitymc.tk)
-###### - [My Discord Server](https://drip.complexitymc.tk)
+###### - [![My Discord Bot](https://ayakabot.ml)]
+###### - [![My Minecraft Server](https://complexitymc.tk)]
+###### - [![My Discord Server](https://drip.complexitymc.tk)]
 <br>
 
 [![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
