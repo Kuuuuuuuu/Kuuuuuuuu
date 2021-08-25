@@ -5,7 +5,7 @@
 <h5>📒 Currently Learning C, C#, Ruby, C++, Go, Java</h5>
 <h5>✏️ My Main Language PHP, JS, HTML, Python</h5>
 <h5>🐥 I Just little kid like to Coding And I Friendly and Cute too :3<h5>
-
+</a>
 <h4>My Tools List</h4>
 
 - [Termux](https://termux.com)
@@ -43,5 +43,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   </a>
   <br>
-</a>
 ###### ©Copyright By MelidaZ - 2021
