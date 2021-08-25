@@ -18,7 +18,7 @@
 - [My Minecraft Server](https://complexitymc.tk)
 - [My Discord Server](https://drip.complexitymc.tk)
 <h1></h1>
-
+<div href="#">
 <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
 
 
@@ -36,5 +36,5 @@
     <p><b>Trophy 🏆<b></p>
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   <br>
-
+</div>
 ###### ©Copyright By MelidaZ - 2021
