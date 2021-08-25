@@ -7,10 +7,10 @@
 
 #### My Tools List
 
-* Termux
-* Visual Studio Code
-* PHPStorm
-* Notepad++
+* ##### Termux
+* ##### Visual Studio Code
+* ##### PHPStorm
+* ##### Notepad++
 
 #### Magic Button 
 
