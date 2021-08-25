@@ -9,7 +9,7 @@
 
 * [My Discord Bot](https://ayakabot.ml)
 * [My Minecraft Server](https://complexitymc.tk)
-* [My Main Discord Server](https://drip.complexitymc.tk)
+* [My Discord Server](https://drip.complexitymc.tk)
 <br>
 
 [![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
