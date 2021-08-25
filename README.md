@@ -12,14 +12,14 @@
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [Notepad++](https://notepad-plus-plus.org/downloads)
 
-#### Magic Button
+<h4>Magic Button</h4>
 
 - [My Discord Bot](https://ayakabot.ml)
 - [My Minecraft Server](https://complexitymc.tk)
 - [My Discord Server](https://drip.complexitymc.tk)
 <h1></h1>
 
-[![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
+<img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
 
 
 <p align="center">
