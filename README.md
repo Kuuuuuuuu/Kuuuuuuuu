@@ -5,14 +5,14 @@
 ##### ✏️ My Main Language PHP, JS, HTML, Python
 ##### 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
 
-#### My Tools List
+#### My Tools List(#)
 
 ###### - [Termux](https://termux.com)
 ###### - [Visual Studio Code](https://code.visualstudio.com)
 ###### - [PHPStorm](https://www.jetbrains.com/phpstorm)
 ###### - [Notepad++](https://notepad-plus-plus.org/downloads)
 
-#### Magic Button 
+#### Magic Button(#)
 
 ###### - [My Discord Bot](https://ayakabot.ml)
 ###### - [My Minecraft Server](https://complexitymc.tk)
