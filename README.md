@@ -24,4 +24,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   <br>
 
-######©Copyright By MelidaZ - 2021
+###### ©Copyright By MelidaZ - 2021
