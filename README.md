@@ -21,7 +21,6 @@
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
  </a>
- </p>
  <br>
 <p align="center">
     <a href="#">
