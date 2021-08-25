@@ -1,9 +1,9 @@
 #### 🥫 My Name is Not or MelidaZ or Notshrimp ♪
-##### - ☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games
-##### - 😪 Just Lazy Coder & Chill
-##### - 📒 Currently Learning C, C#, Ruby, C++, Go, Java
-##### - ✏️ My Main Language PHP, JS, HTML, Python
-##### - 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
+<h5>☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games</h5>
+<h5>😪 Just Lazy Coder & Chill</h5>
+<h5>📒 Currently Learning C, C#, Ruby, C++, Go, Java</h5>
+<h5>✏️ My Main Language PHP, JS, HTML, Python</h5>
+<h5>🐥 I Just little kid like to Coding And I Friendly and Cute too :3<h5>
 
 #### My Tools List
 
