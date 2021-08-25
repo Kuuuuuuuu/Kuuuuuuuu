@@ -6,6 +6,8 @@
 ##### 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
 
 * [My Discord Bot](https://ayakabot.ml)
+* [My Minecraft Server](https://complexitymc.tk)
+* [My Main Discord Server](https://drip.complexitymc.tk)
 <br>
 
 [![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
