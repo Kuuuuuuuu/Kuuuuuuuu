@@ -7,16 +7,16 @@
 
 #### My Tools List
 
-###### - [Termux](https://termux.com)
-###### - [Visual Studio Code](https://code.visualstudio.com)
-###### - [PHPStorm](https://www.jetbrains.com/phpstorm)
-###### - [Notepad++](https://notepad-plus-plus.org/downloads)
+###### - ![Termux](https://termux.com)
+###### - ![Visual Studio Code](https://code.visualstudio.com)
+###### - ![PHPStorm](https://www.jetbrains.com/phpstorm)
+###### - ![Notepad++](https://notepad-plus-plus.org/downloads)
 
 #### Magic Button 
 
-###### - [My Discord Bot](https://ayakabot.ml)
-###### - [My Minecraft Server](https://complexitymc.tk)
-###### - [My Discord Server](https://drip.complexitymc.tk)
+###### - ![My Discord Bot](https://ayakabot.ml)
+###### - ![My Minecraft Server](https://complexitymc.tk)
+###### - ![My Discord Server](https://drip.complexitymc.tk)
 <br>
 
 [![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
