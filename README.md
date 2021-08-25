@@ -1,4 +1,3 @@
-```
 #### 🥫My Name is Not or MelidaZ or Notshrimp ♪
 ##### ☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games
 ##### 😪 Just Lazy Coder & Chill
@@ -39,4 +38,3 @@
   <br>
 
 ###### ©Copyright By MelidaZ - 2021
-```
