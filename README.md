@@ -4,6 +4,8 @@
 ##### 📒 Currently Learning C, C#, Ruby, C++, Go, Java
 ##### ✏️ My Main Language PHP, JS, HTML, Python
 ##### 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
+
+* [My Discord Bot](https://ayakabot.ml)
 <br>
 
 [![Count](https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS)](#)
