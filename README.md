@@ -23,7 +23,6 @@
  </a>
  </p>
  <br>
-
 <p align="center">
     <a href="#">
     <p><b>Github Stats 🎲<b></p>
@@ -31,7 +30,6 @@
   </a>
   </p>
   <br>
-  
 <p align="center">
     <a href="#">
     <p><b>Top Language 🌎<b></p>
@@ -39,7 +37,6 @@
   </a>
   </p>
   <br>
-
 <p align="center">
     <a href="#">
     <p><b>Trophy 🏆<b></p>
