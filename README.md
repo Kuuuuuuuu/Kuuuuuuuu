@@ -17,13 +17,11 @@
 - [My Minecraft Server](https://complexitymc.tk)
 - [My Discord Server](https://drip.complexitymc.tk)
 <h1></h1>
-<a href="#">
-<img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="#">
-<img src="https://discord.c99.nl/widget/theme-1/!JustMelidaZ#9999.png"/>
-</a>
+<p align="center">
+ <a href="#">
+ <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
+ </a>
+</p>
 
 <p align="center">
     <a href="#">
