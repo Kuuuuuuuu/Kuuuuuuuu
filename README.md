@@ -4,15 +4,16 @@
 <p>📒 Currently Learning C, C#, Ruby, C++, Go, Java</p>
 <p>✏️ My Main Language PHP, JS, HTML, Python</p>
 <p>🐥 I Just little kid like to Coding And I Friendly and Cute too :3</p>
-<h4>My Tools List</h4>
+<br>
+<h4>🔧 My Tools List</h4>
 
 - [Termux](https://termux.com)
-- [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVJeW479OLokeGG1hoB63tciru1WdA4oAVA&usqp=CAU[QuickEdit](https://quickedit.en.uptodown.com/android)]
+- [QuickEdit](https://quickedit.en.uptodown.com/android)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [Notepad++](https://notepad-plus-plus.org/downloads)
 
-<h4>Magic Button</h4>
+<h4>⏸️ Magic Button</h4>
 
 - [My Discord Bot](https://ayakabot.ml)
 - [My Minecraft Server](https://complexitymc.tk)
