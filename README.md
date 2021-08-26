@@ -17,6 +17,9 @@
 - [My Minecraft Server](https://complexitymc.tk)
 - [My Discord Server](https://drip.complexitymc.tk)
 <h1></h1>
+
+[![Discord Bots](https://top.gg/api/widget/status/706144670807228568.svg)](https://top.gg/bot/706144670807228568)
+
 <p align="center">
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
