@@ -1,4 +1,4 @@
-<h4>🥫 My Name is Not or MelidaZ or Notshrimp ♪</h4>
+<h4><b>🥫 My Name is Not or MelidaZ or Notshrimp ♪<b></h4>
 <p>☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games</p>
 <p>😪 Just Lazy Coder & Chill</p>
 <p>📒 Currently Learning C, C#, Ruby, C++, Go, Java</p>
