@@ -7,6 +7,7 @@
 <h4>My Tools List</h4>
 
 - [Termux](https://termux.com)
+- [QuickEdit](https://quickedit.en.uptodown.com/android)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [Notepad++](https://notepad-plus-plus.org/downloads)
