@@ -1,9 +1,9 @@
 <h4>🥫 My Name is Not or MelidaZ or Notshrimp ♪</h4>
-* ☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games
-* 😪 Just Lazy Coder & Chill
-* 📒 Currently Learning C, C#, Ruby, C++, Go, Java
-* ✏️ My Main Language PHP, JS, HTML, Python
-* 🐥 I Just little kid like to Coding And I Friendly and Cute too :3
+<a>☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games</a>
+<a>😪 Just Lazy Coder & Chill</a>
+<a>📒 Currently Learning C, C#, Ruby, C++, Go, Java</a>
+<a>✏️ My Main Language PHP, JS, HTML, Python</a>
+<a>🐥 I Just little kid like to Coding And I Friendly and Cute too :3</a>
 <h4>My Tools List</h4>
 
 - [Termux](https://termux.com)
