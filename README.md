@@ -18,8 +18,11 @@
 - [My Discord Server](https://drip.complexitymc.tk)
 <h1></h1>
 
-[![Discord Bots](https://top.gg/api/widget/status/706144670807228568.svg)](https://top.gg/bot/706144670807228568)
-
+<p align="center">
+ <a href="https://top.gg/bot/706144670807228568">
+ <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
+ </a>
+ <br>
 <p align="center">
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
