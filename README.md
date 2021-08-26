@@ -1,10 +1,10 @@
-<h4><b>🥫 My Name is Not or MelidaZ or Notshrimp ♪<b></h4>
+<h4><b>🥫 My Name is Not or MelidaZ or Notshrimp ♪</b></h4>
 <p>☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games</p>
 <p>😪 Just Lazy Coder & Chill</p>
 <p>📒 Currently Learning C, C#, Ruby, C++, Go, Java</p>
 <p>✏️ My Main Language PHP, JS, HTML, Python</p>
 <p>🐥 I Just little kid like to Coding And I Friendly and Cute too :3</p>
-<h4>🔧 My Tools List</h4>
+<h4><b>🔧 My Tools List</b></h4>
 
 - [Termux](https://termux.com)
 - [QuickEdit](https://quickedit.en.uptodown.com/android)
@@ -12,7 +12,7 @@
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [Notepad++](https://notepad-plus-plus.org/downloads)
 
-<h4>⏸️ Magic Button</h4>
+<h4><b>⏸️ Magic Button</b></h4>
 
 - [My Discord Bot](https://ayakabot.ml)
 - [My Minecraft Server](https://complexitymc.tk)
@@ -48,4 +48,4 @@
   </a>
   <br>
 
-<h6><b>©Copyright By MelidaZ - 2021<b></h6>
+<h6><b>©Copyright By MelidaZ - 2021</b></h6>
