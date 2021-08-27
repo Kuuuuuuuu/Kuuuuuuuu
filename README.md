@@ -16,7 +16,7 @@
 
 - [My Discord Bot](https://ayakabot.ml)
 - [My Minecraft Server](https://complexitymc.tk)
-- [My Discord Server](https://drip.complexitymc.tk)
+- [My Discord Server](https://discord.dripsquad.ga/index)
 <h1></h1>
 
 <p align="center">
