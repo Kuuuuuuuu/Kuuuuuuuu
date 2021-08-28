@@ -1,8 +1,8 @@
 <h4><b>🥫 My Name is Not or MelidaZ ♪</b></h4>
 <p>☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games</p>
 <p>😪 Just Lazy Coder & Chill</p>
-<p>📒 Currently Learning C, C#, Ruby, C++, Go, Java</p>
-<p>✏️ My Main Language PHP, JS, HTML, Python</p>
+<p>📒 Currently Learning: C, C#, Ruby, C++, Go, Java</p>
+<p>✏️ My Main Language: PHP, JS, HTML, Python</p>
 <p>🐥 I Just little kid like to Coding And I Friendly and Cute too :3</p>
 <h4><b>🔧 My Tools List</b></h4>
 
@@ -46,6 +46,12 @@
     <a href="#">
     <p><b>Trophy 🏆<b></p>
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
+  </a>
+  <br>
+<p align="center">
+    <a href="#">
+    <p><b>Top Language 🌳<b></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&langs_count=10&theme=react&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
   </a>
   <br>
 
