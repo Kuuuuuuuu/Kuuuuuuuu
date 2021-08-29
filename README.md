@@ -19,9 +19,11 @@
 - [My Discord Server](https://discord.dripsquad.ga/index)
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
 <h1></h1>
-
-<a href="#"><img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
-
+<p align="center">
+ <a href="#">
+ <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
+ </a>
+ <br>
 <p align="center">
  <a href="https://top.gg/bot/706144670807228568">
  <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
