@@ -20,7 +20,7 @@
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
 <h1></h1>
 
-<a href="https://discord.c99.nl/widget/theme-4/568093374662311956.png"><img src="https://discord.c99.nl/widget/theme-4/568093374662311956.png"></a>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
 
 <p align="center">
  <a href="https://top.gg/bot/706144670807228568">
