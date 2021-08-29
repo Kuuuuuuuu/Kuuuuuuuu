@@ -20,6 +20,10 @@
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
 <h1></h1>
 
+<p>
+<a href="https://open.spotify.com/user/31wgdtovulrsqngiukket6f5a55i?si=mpum539JQfW9jZ1wZm_bGw"><img src="https://novatorem-peach-ten.vercel.app/api/spotify"></a>
+</p>
+
 <p align="center">
  <a href="https://top.gg/bot/706144670807228568">
  <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
