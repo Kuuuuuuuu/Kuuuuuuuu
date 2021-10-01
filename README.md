@@ -13,10 +13,9 @@
 - [Notepad++](https://notepad-plus-plus.org/downloads)
 
 <h4><b>⏸️ Magic Button</b></h4>
-
 - [My Discord Bot](https://ayakabot.ml)
 - [My Minecraft Server](https://complexitymc.tk)
-- [My Discord Server](https://discord.dripsquad.ga/index)
+- [My Discord Server](https://discord.gg/XpTut4RSTS)
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
 <h1></h1>
 <p align="center">
