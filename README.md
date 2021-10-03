@@ -1,5 +1,5 @@
 <div align="center">
-<p><b>================Profile Views================</b></p>
+<p><b>========= Profile Views & Bot Status =========</b></p>
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
  </a>
