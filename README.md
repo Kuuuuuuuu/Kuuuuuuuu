@@ -1,9 +1,9 @@
-<p align="left">
+<p align="top-left">
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
  </a>
  <br>
-<p align="right">
+<p align="top-right">
  <a href="https://top.gg/bot/706144670807228568">
  <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
  </a>
