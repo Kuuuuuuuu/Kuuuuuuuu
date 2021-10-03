@@ -39,5 +39,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   </a>
   <br>
+</p>
 
 <h6><b>©Copyright By MelidaZ - 2021</b></h6>
