@@ -60,4 +60,4 @@
     <br>
 </div>
 
-<h6><b>©MelidaZ - 2021</b></h6>
+<h6><b>©Theme Minerals - MelidaZ @2021</b></h6>
