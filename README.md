@@ -1,4 +1,3 @@
-<h4><b>🥫 My Name is Not or MelidaZ ♪</b></h4>
 <h4><b>🔧 » My Tools List</b></h4>
 
 - [Termux](https://termux.com)
