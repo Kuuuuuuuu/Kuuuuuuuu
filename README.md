@@ -5,6 +5,7 @@
 <div align="center">
  <h4><b>🔧 » My Tools List</b></h4>
 </div>
+
 - [Termux](https://termux.com)
 - [QuickEdit](https://quickedit.en.uptodown.com/android)
 - [Visual Studio Code](https://code.visualstudio.com)
@@ -13,6 +14,7 @@
 <div align="center">
  <h4><b>🎙️ » Another Information</b></h4>
 </div>
+
 - [My Discord Bot](https://ayakabot.ml)
 - [My Discord Server](https://discord.gg/XpTut4RSTS)
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
