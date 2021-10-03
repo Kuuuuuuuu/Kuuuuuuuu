@@ -1,4 +1,3 @@
-<marquee>test</marquee>
 <div align="center">
 <p><b>========== Profile Views | Bot Status ==========</b></p>
  <a href="#">
@@ -43,7 +42,7 @@
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
  </a>
  <br>
-
+//Footer
 <div align="center">
     <p><b>============== Github Stats ==============<b></p>
     <a href="#">
@@ -62,4 +61,4 @@
     <br>
 </div>
 
-<h6><b>©Copyright By MelidaZ - 2021</b></h6>
+<h6><b>©MelidaZ - 2021</b></h6>
