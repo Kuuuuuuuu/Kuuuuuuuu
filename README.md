@@ -5,27 +5,33 @@
 <div align="center">
  <h4><b>🔧 » My Tools List</b></h4>
  <br>
-  <a href="https://termux.com">
+ <a href="https://termux.com">
   <p><b>Termux<b></p>
  </a>
-  <a href="https://quickedit.en.uptodown.com/android">
+ <a href="https://quickedit.en.uptodown.com/android">
   <p><b>QuickEdit<b></p>
  </a>
-  <a href="https://www.jetbrains.com/phpstorm">
+ <a href="https://www.jetbrains.com/phpstorm">
   <p><b>PHPStorm<b></p>
  </a>
-  <a href="https://notepad-plus-plus.org/downloads">
+ <a href="https://notepad-plus-plus.org/downloads">
   <p><b>Notepad++<b></p>
  </a>
 </div>
 <div align="center">
  <h4><b>🎙️ » Another Information</b></h4>
+ <br>
+ <a href="https://ayakabot.ml">
+  <p><b>My Discord Bot<b></p>
+ </a>
+ <a href="https://discord.gg/XpTut4RSTS">
+  <p><b>My Discord Server<b></p>
+ </a>
+ <a href="https://omlet.gg/notkungz1">
+  <p><b>My Omlet Arcade<b></p>
+ </a>
+ <br>
 </div>
-
-- [My Discord Bot](https://ayakabot.ml)
-- [My Discord Server](https://discord.gg/XpTut4RSTS)
-- [My Omlet Arcade](https://omlet.gg/notkungz1)
-<h1></h1>
 <p align="center">
  <a href="#">
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
