@@ -1,11 +1,11 @@
 <div align="center">
-<p><b>Profile Views</b></p>
+<p><b>«-----------Profile Views-----------»</b></p>
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
  </a>
  <br>
 <p align="center">
- <p><b>My Discord Bot Status</b></p>
+ <p><b>«--------Discord Bot Status--------»</b></p>
  <a href="https://top.gg/bot/706144670807228568">
  <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
  </a>
