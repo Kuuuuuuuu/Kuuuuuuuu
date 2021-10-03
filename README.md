@@ -1,7 +1,8 @@
-
-
-
-
+<p align="left">
+ <a href="#">
+ <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
+ </a>
+ <br>
 <div align="center">
  <p><b>My Tools List</b></p>
  <a href="https://termux.com">
@@ -40,11 +41,7 @@
  <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
  </a>
  <br>
-<p align="center">
- <a href="#">
- <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
- </a>
- <br>
+
 <div align="center">
     <p><b>My Github Stats<b></p>
     <a href="#">
