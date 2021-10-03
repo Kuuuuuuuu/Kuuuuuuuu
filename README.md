@@ -4,20 +4,19 @@
 
 <div align="center">
  <h4><b>🔧 » My Tools List</b></h4>
-
+</div>
 - [Termux](https://termux.com)
 - [QuickEdit](https://quickedit.en.uptodown.com/android)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [Notepad++](https://notepad-plus-plus.org/downloads)
-
-<h4><b>🎙️ » Another Information</b></h4>
-
+<div align="center">
+ <h4><b>🎙️ » Another Information</b></h4>
+</div>
 - [My Discord Bot](https://ayakabot.ml)
 - [My Discord Server](https://discord.gg/XpTut4RSTS)
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
 <h1></h1>
-</div>
 <p align="center">
  <a href="#">
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
