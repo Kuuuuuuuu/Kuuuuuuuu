@@ -25,7 +25,7 @@
  </a>
 </div>
 <div align="center">
- <p><b>=============Another Information=============</b></p>
+ <p><b>============ Another Informations ============</b></p>
  <a href="https://ayakabot.ml">
   <p><b>My Discord Bot<b></p>
  </a>
@@ -37,6 +37,7 @@
  </a>
  <br>
 </div>
+<p><b>=============== Discord Account ===============</b></p>
 <p align="center">
  <a href="#">
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
