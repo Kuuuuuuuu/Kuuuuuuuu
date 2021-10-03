@@ -36,9 +36,6 @@
   <p><b>My Omlet Arcade<b></p>
  </a>
  <br>
-</div>
-<div align="center">
-<p><b>=================== Discord ===================</b></p>
  <a href="#">
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
  </a>
