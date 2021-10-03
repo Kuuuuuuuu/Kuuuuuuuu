@@ -37,12 +37,13 @@
  </a>
  <br>
 </div>
+<div align="center">
 <p><b>=============== Discord Account ===============</b></p>
-<p align="center">
  <a href="#">
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
  </a>
  <br>
+</div>
 <div align="center">
     <p><b>============== Github Stats ==============<b></p>
     <a href="#">
