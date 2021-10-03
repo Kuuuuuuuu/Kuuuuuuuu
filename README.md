@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+<p><b>Profile Views/b></p>
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
  </a>
@@ -9,6 +10,7 @@
  <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
  </a>
  <br>
+</div>
 <div align="center">
  <p><b>My Tools List</b></p>
  <a href="https://termux.com">
