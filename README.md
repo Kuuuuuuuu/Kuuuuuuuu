@@ -4,7 +4,6 @@
 
 <div align="center">
  <h4><b>🔧 » My Tools List</b></h4>
- <br>
  <a href="https://termux.com">
   <p><b>Termux<b></p>
  </a>
@@ -20,7 +19,6 @@
 </div>
 <div align="center">
  <h4><b>🎙️ » Another Information</b></h4>
- <br>
  <a href="https://ayakabot.ml">
   <p><b>My Discord Bot<b></p>
  </a>
