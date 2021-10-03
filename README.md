@@ -4,13 +4,20 @@
 
 <div align="center">
  <h4><b>🔧 » My Tools List</b></h4>
+ <br>
+  <a href="https://termux.com">
+  <p><b>Termux<b></p>
+ </a>
+  <a href="https://quickedit.en.uptodown.com/android">
+  <p><b>QuickEdit<b></p>
+ </a>
+  <a href="https://www.jetbrains.com/phpstorm">
+  <p><b>PHPStorm<b></p>
+ </a>
+  <a href="https://notepad-plus-plus.org/downloads">
+  <p><b>Notepad++<b></p>
+ </a>
 </div>
-
-- [Termux](https://termux.com)
-- [QuickEdit](https://quickedit.en.uptodown.com/android)
-- [Visual Studio Code](https://code.visualstudio.com)
-- [PHPStorm](https://www.jetbrains.com/phpstorm)
-- [Notepad++](https://notepad-plus-plus.org/downloads)
 <div align="center">
  <h4><b>🎙️ » Another Information</b></h4>
 </div>
