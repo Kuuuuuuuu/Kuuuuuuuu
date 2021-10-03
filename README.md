@@ -1,9 +1,4 @@
 <h4><b>🥫 My Name is Not or MelidaZ ♪</b></h4>
-<p>☁️ My Hobby: Cosplay, Coding, Watch Anime, Play some Games</p>
-<p>😪 Just Lazy Coder & Chill</p>
-<p>📒 Currently Learning: C, C#, Ruby, C++, Go, Java</p>
-<p>✏️ My Main Language: PHP, JS, HTML, Python</p>
-<p>🐥 I Just little kid like to Coding And I Friendly and Cute too :3</p>
 <h4><b>🔧 » My Tools List</b></h4>
 
 - [Termux](https://termux.com)
@@ -15,7 +10,6 @@
 <h4><b>🎙️ » Another Information</b></h4>
 
 - [My Discord Bot](https://ayakabot.ml)
-- [My Minecraft Server](https://complexitymc.tk)
 - [My Discord Server](https://discord.gg/XpTut4RSTS)
 - [My Omlet Arcade](https://omlet.gg/notkungz1)
 <h1></h1>
