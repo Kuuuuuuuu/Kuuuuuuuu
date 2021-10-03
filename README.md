@@ -4,7 +4,7 @@
 <p>📒 Currently Learning: C, C#, Ruby, C++, Go, Java</p>
 <p>✏️ My Main Language: PHP, JS, HTML, Python</p>
 <p>🐥 I Just little kid like to Coding And I Friendly and Cute too :3</p>
-<h4><b>🔧 My Tools List</b></h4>
+<h4><b>🔧 » My Tools List</b></h4>
 
 - [Termux](https://termux.com)
 - [QuickEdit](https://quickedit.en.uptodown.com/android)
@@ -12,7 +12,7 @@
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [Notepad++](https://notepad-plus-plus.org/downloads)
 
-<h4><b>⏸️ Magic Button</b></h4>
+<h4><b>🎙️ » Another Information</b></h4>
 
 - [My Discord Bot](https://ayakabot.ml)
 - [My Minecraft Server](https://complexitymc.tk)
@@ -36,19 +36,19 @@
  <br>
 <p align="center">
     <a href="#">
-    <p><b>🌍 My Github Stats<b></p>
+    <p><b>🌍 » My Github Stats<b></p>
     <img src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117"/>
   </a>
   <br>
 <p align="center">
     <a href="#">
-    <p><b>🎲 My Tops Language list<b></p>
+    <p><b>🎲 » My Tops Language list<b></p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117"/> 
   </a>
   <br>
 <p align="center">
     <a href="#">
-    <p><b>🏆 My Trophys<b></p>
+    <p><b>🏆 » My Trophys<b></p>
     <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
   </a>
   <br>
