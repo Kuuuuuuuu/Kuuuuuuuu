@@ -42,7 +42,6 @@
  <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
  </a>
  <br>
-//Footer
 <div align="center">
     <p><b>============== Github Stats ==============<b></p>
     <a href="#">
