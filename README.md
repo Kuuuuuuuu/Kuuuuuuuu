@@ -1,5 +1,5 @@
 <div align="center">
-<p><b>======== Profile Views | Bot Status√ ========</b></p>
+<p><b>Profile Views | Bot Status√</b></p>
  <a href="#">
  <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
  </a>
@@ -10,7 +10,7 @@
  <br>
 </div>
 <div align="center">
- <p><b>============== My Tools Lists♪ ==============</b></p>
+ <p><b>My Tools Lists</b></p>
  <a href="https://termux.com">
   <p><b>Termux<b></p>
  </a>
@@ -25,7 +25,7 @@
  </a>
 </div>
 <div align="center">
- <p><b>============ Another Informations ============</b></p>
+ <p><b>Another Informations</b></p>
  <a href="https://ayakabot.ml">
   <p><b>My Discord Bot<b></p>
  </a>
@@ -42,17 +42,17 @@
  <br>
 </div>
 <div align="center">
-    <p><b>=============== Github Stats ===============<b></p>
+    <p><b>Github Stats<b></p>
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117"/>
     </a>
     <br>
-    <p><b>============ My Tops Languages ============<b></p>
+    <p><b>My Tops Languages<b></p>
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117"/>
     </a>
     <br>
-    <p><b>=============== My Trophys ===============<b></p>
+    <p><b>My Trophys<b></p>
     <a href="#">
       <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord"/>
     </a>
