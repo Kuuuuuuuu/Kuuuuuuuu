@@ -1,7 +1,7 @@
 <div align="center">
 <p><b>Profile Views</b></p>
  <a href="#">
- <img src="https://komarev.com/ghpvc/?username=MelidaZ&label=PROFILE+VIEWS"/>
+ <img src="https://count.getloli.com/get/@MelidaZ?theme=rule34"/>
  </a>
  <br>
 </div>
