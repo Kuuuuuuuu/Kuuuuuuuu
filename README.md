@@ -1,5 +1,5 @@
 <div align="left">
-    <p><b>Profile Views</b></p>
+    <p><b>Profile Information</b></p>
     <a href="#">
       <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
     </a>
