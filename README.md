@@ -5,38 +5,10 @@
  </a>
  <br>
 </div>
-<div align="center">
- <p><b>My Tools Lists</b></p>
- <a href="https://termux.com">
-  <p><b>Termux<b></p>
- </a>
- <a href="https://quickedit.en.uptodown.com/android">
-  <p><b>QuickEdit<b></p>
- </a>
- <a href="https://www.jetbrains.com/phpstorm">
-  <p><b>PHPStorm<b></p>
- </a>
- <a href="https://notepad-plus-plus.org/downloads">
-  <p><b>Notepad++<b></p>
- </a>
-</div>
-<div align="center">
- <p><b>Another Informations</b></p>
- <a href="https://ayakabot.ml">
-  <p><b>My Discord Bot<b></p>
- </a>
- <a href="https://discord.gg/XpTut4RSTS">
-  <p><b>My Discord Server<b></p>
- </a>
- <a href="https://omlet.gg/notkungz1">
-  <p><b>My Omlet Arcade<b></p>
- </a>
- <br>
- <a href="#">
- <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
- </a>
- <br>
-</div>
+<a href="#">
+<img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
+</a>
+<br>
 <div align="center">
     <p><b>Github Stats<b></p>
     <a href="#">
@@ -54,5 +26,3 @@
     </a>
     <br>
 </div>
-
-<h6><b>©Theme Minerals - MelidaZ @2021</b></h6>
