@@ -13,14 +13,14 @@
     <h3><b>Github Stats<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117" />
+            src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react-dark" />
     </a>
     <br>
     <br>
     <h3><b>My Tops Languages<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react-dark" />
     </a>
     <br>
     <br>
@@ -32,8 +32,7 @@
     <br>
     <h3><b>My Graph<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img
-            src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117&line=24292e&point=24292e" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&theme=react-dark" />
     </a>
     <br>
     <br>
