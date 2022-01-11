@@ -19,8 +19,7 @@
     <br>
     <h3><b>My Tops Languages<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react" />
     </a>
     <br>
     <br>
@@ -32,7 +31,7 @@
     <br>
     <h3><b>My Graph<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&theme=react-dark" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&theme=github" />
     </a>
     <br>
     <br>
