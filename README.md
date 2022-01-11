@@ -33,7 +33,7 @@
     <h3><b>My Graph<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
-            src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117&line=24292e&point=24292e&area=true&hide_border=true" />
+            src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&theme=react&show_icons=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&bg_color=0d1117&line=24292e&point=24292e" />
     </a>
     <br>
     <br>
