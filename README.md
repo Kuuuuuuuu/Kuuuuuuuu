@@ -13,14 +13,14 @@
     <h3><b>Github Stats<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react-dark" />
+            src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react" />
     </a>
     <br>
     <br>
     <h3><b>My Tops Languages<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react-dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react" />
     </a>
     <br>
     <br>
