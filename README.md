@@ -1,3 +1,9 @@
+#### Main Language: JS, TS, PHP, C#, C
+#### Not A Language: HTML5, CSS3
+
+### More Information
+<details>
+  <summary>Click Here!</summary>
 <div align="left">
     <h3><b>Profile Information</b></h3>
     <a href="https://KohakuChan.my.to">
@@ -42,3 +48,4 @@
     <br>
     <br>
 </div>
+</details>
