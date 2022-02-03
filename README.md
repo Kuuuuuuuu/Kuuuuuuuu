@@ -1,11 +1,4 @@
-#### Main Language: JS, TS, PHP, C#, C
-#### Not A Language: HTML5, CSS3
-
-### More Information
-<details>
-  <summary>Click Here!</summary>
-<div align="left">
-    <h3><b>Profile Information</b></h3>
+<h3><b>Profile Information</b></h3>
     <a href="https://KohakuChan.my.to">
         <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru" />
     </a>
@@ -14,8 +7,14 @@
     <a href="https://KohakuChan.my.to">
         <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
     </a>
-    <br>
-    <br>
+
+#### Main Language: JS, TS, PHP, C#, C
+#### Not A Language: HTML5, CSS3
+
+### More Information
+<details>
+  <summary>Click Here!</summary>
+<div align="left">
     <h3><b>Github Stats<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
