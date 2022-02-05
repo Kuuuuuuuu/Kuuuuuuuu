@@ -88,7 +88,6 @@
 - [MCBVanillaResourcePack](https://github.com/KohakuChanX/MCBVanillaResourcePack)
 - [MINGW-packages](https://github.com/KohakuChanX/MINGW-packages)
 - [Nintod](https://github.com/KohakuChanX/Nintod)
-- [Oshekher-RDP](https://github.com/KohakuChanX/Oshekher-RDP)
 - [Zeqa-Core](https://github.com/KohakuChanX/Zeqa-Core)
 - [discord-slash-bot](https://github.com/KohakuChanX/discord-slash-bot)
 - [discordjs](https://github.com/KohakuChanX/discordjs)
