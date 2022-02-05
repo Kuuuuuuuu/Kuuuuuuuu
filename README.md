@@ -18,31 +18,31 @@
     <h3><b>Github Stats<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=MelidaZ&include_all_commits=true&count_private=true&theme=react" />
+            src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&include_all_commits=true&count_private=true&theme=react" />
     </a>
     <br>
     <br>
     <h3><b>My Tops Languages<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelidaZ&layout=compact&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohakuChanX&layout=compact&theme=react" />
     </a>
     <br>
     <br>
     <h3><b>My Streak<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MelidaZ&theme=dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark" />
     </a>
     <br>
     <br>
     <h3><b>My Graph<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img src="https://activity-graph.herokuapp.com/graph?username=MelidaZ&theme=github" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&theme=github" />
     </a>
     <br>
     <br>
     <h3><b>My Trophys<b></h3>
     <a href="https://KohakuChan.my.to">
-        <img src="https://github-profile-trophy.vercel.app/?username=MelidaZ&theme=discord" />
+        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=discord" />
     </a>
     <br>
     <br>
