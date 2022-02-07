@@ -53,7 +53,7 @@
 ## My Sussy Projects
 - [24-7-discord](https://github.com/KohakuChanX/24-7-discord) ( [3 stars](https://github.com/KohakuChanX/24-7-discord/stargazers) )
 - [AdventureWorld](https://github.com/KohakuChanX/AdventureWorld) ( [2 stars](https://github.com/KohakuChanX/AdventureWorld/stargazers) )
-- [AyakaMain](https://github.com/KohakuChanX/AyakaMain) ( [2 stars](https://github.com/KohakuChanX/AyakaMain/stargazers) )
+- [AyakaMain](https://github.com/KohakuChanX/AyakaMain) ( [3 stars](https://github.com/KohakuChanX/AyakaMain/stargazers) )
 - [AyakaRedirect](https://github.com/KohakuChanX/AyakaRedirect)
 - [BerryCore](https://github.com/KohakuChanX/BerryCore) ( [4 stars](https://github.com/KohakuChanX/BerryCore/stargazers) )
 - [Discord.js-Bot-Play-Live-24-7](https://github.com/KohakuChanX/Discord.js-Bot-Play-Live-24-7) ( [1 stars](https://github.com/KohakuChanX/Discord.js-Bot-Play-Live-24-7/stargazers) )
