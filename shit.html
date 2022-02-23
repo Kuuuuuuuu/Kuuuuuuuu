@@ -1,16 +1,33 @@
 <style>
   p {
-  animation: color-change 3s infinite;
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
-@keyframes color-change {
-  0% { color: red; }
-  25% { color: blue; }
-  50% { color: yellow; }
-  75% { color: green; }
-  90% { color: pink; }
-  100% { color: orange; }
+.rainbow {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+    font-family: monospace;
+    letter-spacing: 5px;
 }
+.rainbow_text_animated {
+    background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow_animation 6s ease-in-out infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
+  
 </style>
-<p>https://discord.gg/PTAAru2kNS</p>
+<p class="rainbow_text_animated">https://discord.gg/PTAAru2kNS</p>
