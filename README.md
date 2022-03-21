@@ -8,7 +8,7 @@
         <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
     </a>
 
-#### Main Language: JS, TS, PHP, C#, C
+#### Main Language: JS, TS, PHP, C#, C, JAVA, GO
 #### Not A Language: HTML5, CSS3
 
 ### More Information
@@ -50,4 +50,5 @@
 </details>
         
 <!-- profile update: hello -->
+<!-- this one not finish yet -->
 <!-- profile update: bye -->
