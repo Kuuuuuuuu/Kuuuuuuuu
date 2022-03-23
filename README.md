@@ -8,8 +8,9 @@
         <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
     </a>
 
-#### Main Language: JS, TS, PHP, C#, C, JAVA, GO
+#### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia
 #### Not A Language: HTML5, CSS3
+#### Hobby: Watch Anime, Listen Music, Sleep, Cosplay(don't ask), Coding, Play games
 
 ### More Information
 <details>
