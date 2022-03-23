@@ -10,7 +10,7 @@
 
 #### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia
 #### Not A Language: HTML5, CSS3
-#### Hobby: Watch Anime, Listen Music, Sleep, Cosplay(don't ask), Coding, Play games
+#### Hobby: Watch Anime, Listen Music, Sleep, Cosplay(don't ask), Coding, Play games, Drawing some Picture (Anime)
 
 ### More Information
 <details>
