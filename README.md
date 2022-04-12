@@ -17,6 +17,9 @@
 <details>
   <summary>Click Here!</summary>
 <div align="left">
+    <figure><embed src="https://wakatime.com/share/@f0797c6d-4099-4a7f-947c-a8144dcd6348/8aea6ea1-e25a-44c9-8326-37684a57eb18.svg"></embed></figure>
+    <br>
+    <br>
     <h3><b>Github Stats<b></h3>
     <a href="https://KohakuChan.my.to">
         <img
