@@ -17,7 +17,7 @@
 <details>
   <summary>Click Here!</summary>
 <div align="left">
-   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f0797c6d-4099-4a7f-947c-a8144dcd6348/9f51fe75-fa2a-44f4-a84b-c346d7ea642d.png" /></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f0797c6d-4099-4a7f-947c-a8144dcd6348/9f51fe75-fa2a-44f4-a84b-c346d7ea642d.png" /></a>
     <br>
     <br>
     <h3><b>Github Stats<b></h3>
