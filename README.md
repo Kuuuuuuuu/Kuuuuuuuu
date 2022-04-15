@@ -8,7 +8,7 @@
         <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
     </a>
 
-[![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
+<a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348"><img src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg" alt="Total time coded since Apr 6 2022" /></a>
 
 #### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia
 #### Learning: Assembly, C++
