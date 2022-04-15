@@ -20,7 +20,7 @@
     <br>
     <br>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&show_icons=true&include_all_commits=true&line_height=33&count_private=true&hide_border=true&title_color=00008B&icon_color=00008B&bg_color=0d1117&theme=nord"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KohakuChanX&langs_count=4&count_private=true&theme=nord"/>
     </div>
     <div align="left">
@@ -30,7 +30,7 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&theme=github"/>
         <br>
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=nord"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=algolia"/>
     </div>
 </details>
 
