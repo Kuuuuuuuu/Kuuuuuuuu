@@ -20,7 +20,7 @@
     <br>
     <br>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&show_icons=true&include_all_commits=true&line_height=33&count_private=true&title_color=2916F5&icon_color=2916F5&bg_color=151B54&theme=nord"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&show_icons=true&include_all_commits=true&line_height=33&count_private=true&title_color=1E90FF&icon_color=1E90FF&bg_color=151B54&theme=nord"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KohakuChanX&langs_count=4&count_private=true&theme=nord"/>
     </div>
     <div align="left">
