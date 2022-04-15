@@ -9,6 +9,7 @@
     </a>
 
 #### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia
+#### Learning: Assembly, C++
 #### Not A Language: HTML5, CSS3
 #### Hobby: Watch Anime, Listen Music, Sleep, Cosplay(don't ask), Coding, Play games, Drawing some Picture (Anime)
 #### Tools: PHPStorm, Intellij IDEA Utimate, GoLand, CLion, Rider, WebStorm, PyCharm, Visual Studio 2022, Visual Studio Code, XAMPP, NeoVIM
