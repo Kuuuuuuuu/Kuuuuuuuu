@@ -14,8 +14,10 @@
 #### Web Development: HTML, CSS, React.js, Vue.js, Svelte
 #### Learning: Assembly, C++
 #### Tools: PHPStorm, Intellij IDEA Utimate, GoLand, CLion, Rider, WebStorm, PyCharm, Visual Studio 2022, Visual Studio Code, XAMPP, NeoVIM
-
-<p>More Information</p>
+<br>
+<br>
+<br>
+<h1>More Information</h1>
 <details>
   <summary>Click Here!</summary>
 <div align="left">
