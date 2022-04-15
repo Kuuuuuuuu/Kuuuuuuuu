@@ -16,8 +16,7 @@
 #### Tools: PHPStorm, Intellij IDEA Utimate, GoLand, CLion, Rider, WebStorm, PyCharm, Visual Studio 2022, Visual Studio Code, XAMPP, NeoVIM
 <br>
 <br>
-<br>
-<h1>More Information</h1>
+<h4>More Information</h1>
 <details>
   <summary>Click Here!</summary>
 <div align="left">
