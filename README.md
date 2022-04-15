@@ -17,15 +17,13 @@
 <h3>More Information</h3>
 <details>
     <summary>Click Here!</summary>
+    <br>
+    <br>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&include_all_commits=true&count_private=true&theme=react"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohakuChanX&layout=compact&theme=react"/>
     </div>
     <div align="left">
-        <br>
-        <br>
-        <br>
-        <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark"/>
         <br>
         <br>
