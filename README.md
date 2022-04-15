@@ -24,24 +24,15 @@
     <div align="left">
         <br>
         <br>
-        <a href="https://KohakuChan.my.to">
-
-        </a>
         <br>
         <br>
-        <a href="https://KohakuChan.my.to">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark"/>
-        </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark"/>
         <br>
         <br>
-        <a href="https://KohakuChan.my.to">
-            <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&theme=github"/>
-        </a>
+        <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&theme=github"/>
         <br>
         <br>
-        <a href="https://KohakuChan.my.to">
-            <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=discord"/>
-        </a>
+        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=discord"/>
     </div>
 </details>
 
