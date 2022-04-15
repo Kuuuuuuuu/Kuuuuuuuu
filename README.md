@@ -24,7 +24,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KohakuChanX&langs_count=4&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
     </div>
     <div align="left">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark&background=191970"/>
         <br>
         <br>
         <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&theme=github"/>
