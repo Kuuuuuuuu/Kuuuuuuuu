@@ -22,7 +22,7 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&show_icons=true&include_all_commits=true&line_height=33&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KohakuChanX&langs_count=4&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
-        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=algolia"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&row=2&column=4&theme=algolia"/>
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KohakuChanX&theme=dark&background=191970"/>
         <br>
