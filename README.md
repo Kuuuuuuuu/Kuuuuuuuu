@@ -28,7 +28,7 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&bg_color=191970&theme=github"/>
         <br>
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&theme=algolia"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=KohakuChanX&row=2&column=3&theme=algolia"/>
     </div>
 </details>
 
