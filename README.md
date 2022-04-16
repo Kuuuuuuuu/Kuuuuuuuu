@@ -14,8 +14,11 @@
 #### Web Development: HTML, CSS, React.js, Vue.js, Svelte
 #### Learning: Assembly, C++
 #### Tools: PHPStorm, Intellij IDEA Utimate, GoLand, CLion, Rider, WebStorm, PyCharm, Visual Studio 2022, Visual Studio Code, XAMPP, NeoVIM
-
-    <a href="#">
+<h3>More Information</h3>
+<details>
+    <summary>Click Here!</summary>
+    <br>
+    <br>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=KohakuChanX&show_icons=true&include_all_commits=true&line_height=33&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KohakuChanX&langs_count=4&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
@@ -25,7 +28,7 @@
         <br>
         <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&bg_color=191970&theme=github"/>   
     </div>
-</a>
+</details>
 
 <!-- profile update: hello -->
 
