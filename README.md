@@ -26,7 +26,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuuuuuuuu&theme=dark&background=191970"/>
         <br>
         <br>
-        <img src="https://activity-graph.herokuapp.com/graph?username=KohakuChanX&bg_color=191970&theme=github"/>   
+        <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>   
     </div>
 </details>
 
