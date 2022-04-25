@@ -10,7 +10,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
 
-#### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia
+#### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia, Some SQL
 #### Web Development: HTML, CSS, React.js, Vue.js, Svelte
 #### Learning: Assembly, C++
 #### Tools: PHPStorm, Intellij IDEA Utimate, GoLand, CLion, Rider, WebStorm, PyCharm, Visual Studio 2022, Visual Studio Code, XAMPP, NeoVIM
