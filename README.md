@@ -5,7 +5,7 @@
 <br>
 <br>
 <a href="https://KohakuChan.my.to">
-    <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
+    <img src="https://lanyard.cnrad.dev/api/568093374662311956"></a>
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
