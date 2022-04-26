@@ -22,6 +22,7 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuuuuuuuu&langs_count=15&layout=compact&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
+        <br>
         <img src="https://github-profile-trophy.vercel.app/?username=Kuuuuuuuu&row=2&column=4&theme=algolia"/>
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuuuuuuuu&theme=dark&background=191970"/>
