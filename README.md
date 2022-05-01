@@ -1,4 +1,4 @@
-<h3><b>Welcome to Kuu's Profile :)</b></h3>
+<h3><b>Welcome to Kuu's Profile :3</b></h3>
 <a href="https://KohakuChan.my.to">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
 </a>
