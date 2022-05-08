@@ -1,10 +1,10 @@
 <h3><b>🐱 Welcome to Kuu's Profile :<</b></h3>
-<a href="https://KohakuChan.my.to">
+<a href="https://Kuu.dripsquad.ga">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
 </a>
 <br>
 <br>
-<a href="https://KohakuChan.my.to">
+<a href="https://Kuu.dripsquad.ga">
     <img src="https://lanyard.cnrad.dev/api/568093374662311956"></a>
 </a>
 
