@@ -1,4 +1,4 @@
-<h3><b>🐱 Welcome to Kuu's Profile :3</b></h3>
+<h3><b>🐱 Welcome to My Profile :3 </b></h3>
 <a href="https://Kuu.dripsquad.ga">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
 </a>
@@ -10,7 +10,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
 
-#### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Julia, Some SQL
+#### Main Language: JS, TS, PHP, C#, C, JAVA, GO, Some SQL
 #### Web Development: HTML, CSS, React.js, Vue.js, Svelte
 #### Learning: Assembly, C++
 #### Tools: PHPStorm, Intellij IDEA Utimate, GoLand, CLion, Rider, WebStorm, PyCharm, Visual Studio 2022, Visual Studio Code, XAMPP, NeoVIM
