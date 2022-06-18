@@ -28,7 +28,10 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuuuuuuuu&theme=dark&background=191970"/>
         <br>
         <br>
-        <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>   
+        <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
+        <br>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kuu&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"
     </div>
 </details>
 
