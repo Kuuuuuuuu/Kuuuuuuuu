@@ -21,7 +21,7 @@ jobs:
         run: |
           cd ${GITHUB_WORKSPACE}/
           npm i
-          node update.js
+          node index.js
       - name: "3"
         run: |
           git config user.name "${GITHUB_ACTOR}"
