@@ -34,7 +34,3 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kuu&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"
     </div>
 </details>
-
-<!-- profile update: hello -->
-
-<!-- profile update: bye -->
