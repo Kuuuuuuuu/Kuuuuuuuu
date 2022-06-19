@@ -1,4 +1,4 @@
-name: Main ReadMe Updater (Credit https://github.com/SudhanPlayz/SudhanPlayz)
+name: readme
 
 on:
   push:
