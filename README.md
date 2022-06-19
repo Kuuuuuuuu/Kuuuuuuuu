@@ -1,4 +1,4 @@
-<h3><b>🐱 Welcome to My Profile :3 </b></h3>
+<h3><b>🐱 Welcome to My Profile :3</b></h3>
     <h4>📝 <b>Last Update June 19th 2022, 3:44:07 pm</b></h4>
 <a href="https://Kuu.dripsquad.ga">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
