@@ -1,5 +1,5 @@
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
-<h4>📝 <b>Last Update June 27th 2022, 10:12:18 pm</b></h4>
+<h4>📝 <b>Last Update: มิถุนายน 27 2022, 11:12:34 หลังเที่ยง</b></h4>
 <a href="https://nayukikuu.gq">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
 </a>
