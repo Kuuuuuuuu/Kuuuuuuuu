@@ -1,11 +1,11 @@
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
 <h4>📝 <b>Last Update June 27th 2022, 10:12:18 pm</b></h4>
-<a href="https://Kuu.dripsquad.ga">
+<a href="https://nayukikuu.gq">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=moebooru"/>
 </a>
 <br>
 <br>
-<a href="https://Kuu.dripsquad.ga">
+<a href="https://nayukikuu.gq">
     <img src="https://lanyard.cnrad.dev/api/568093374662311956"></a>
 </a>
 
