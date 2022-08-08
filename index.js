@@ -3,7 +3,6 @@ const {writeFileSync} = require("fs");
 const moment = require("moment");
 
 (function () {
-    moment.locale('th');
     const text = `<h3><b>🐱 Welcome to My Profile :3</b></h3>
 <h4>📝 <b>Last Update: ${moment().format('MMMM Do YYYY, h:mm:ss a')}</b></h4>
 <a href="https://nayukikuu.gq">
