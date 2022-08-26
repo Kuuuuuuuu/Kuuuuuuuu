@@ -20,9 +20,9 @@ const moment = require("moment");
 #### Frameworks: React.js, Vue.js, Express.js, Svelte, Bootstrap, Tailwind
 #### Learning: Elixir, C++, Flutter
 #### Tools: PhpStorm, Intellij Utimate, WebStorm, PyCharm, Rider, Vs Code(Insider) Git 
+<br>
+<br>
 <details>
-    <br>
-    <br>
     <summary>More Info!</summary>
     <br>
     <br>
