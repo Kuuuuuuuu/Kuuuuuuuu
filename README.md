@@ -10,6 +10,7 @@
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 #### Programming Languages: JS, TS, EJS, PHP, C#, C, JAVA, GO, Some SQL
 #### Frameworks: React.js, Vue.js, Express.js, Svelte, Bootstrap, Tailwind
@@ -23,7 +24,6 @@
     <br>
     <div align="center">
         <a href="https://nayukikuu.xyz">
-           ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuuuuuuuu&langs_count=15&layout=compact&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
            <br>
            <img src="https://github-profile-trophy.vercel.app/?username=Kuuuuuuuu&row=2&column=4&theme=algolia"/>
