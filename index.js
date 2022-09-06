@@ -37,9 +37,6 @@ const moment = require("moment");
            <br>
            <br>
            <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
-           <br>
-           <br>
-           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayuki&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"
         </a>
     </div>
 </details>`;
