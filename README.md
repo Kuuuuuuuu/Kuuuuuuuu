@@ -10,7 +10,7 @@
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Kuuuuuuuu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 #### Programming Languages: JS, TS, EJS, PHP, C#, C, JAVA, GO, Some SQL
 #### Frameworks: React.js, Vue.js, Express.js, Svelte, Bootstrap, Tailwind
