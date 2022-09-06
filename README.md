@@ -1,5 +1,5 @@
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
-<h4>📝 <b>Last Update: September 6th 2022, 8:28:06 am</b></h4>
+<h4>📝 <b>Last Update: September 6th 2022, 3:56:05 pm</b></h4>
 <a href="https://nayukikuu.xyz">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=rule34"/>
 </a>
@@ -32,9 +32,6 @@
            <br>
            <br>
            <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
-           <br>
-           <br>
-           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayuki&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"
         </a>
     </div>
 </details>
