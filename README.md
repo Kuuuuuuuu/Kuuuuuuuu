@@ -1,9 +1,4 @@
-const path = require("path");
-const {writeFileSync} = require("fs");
-const moment = require("moment");
-
-(function () {
-    const text = `<div align="center">
+<div align="center">
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
 <h4>📝 <b>Last Update: ${moment().format('MMMM Do YYYY, h:mm:ss a')}</b></h4>
 <a href="https://nayukikuu.xyz">
@@ -41,6 +36,4 @@ const moment = require("moment");
            <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
         </a>
     </div>
-</details>`;
-    writeFileSync(path.join(__dirname, "README.md"), text);
-})();
+</details>
