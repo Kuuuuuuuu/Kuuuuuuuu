@@ -1,5 +1,5 @@
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
-<h4>📝 <b>Last Update: September 6th 2022, 3:56:05 pm</b></h4>
+<h4>📝 <b>Last Update: ${moment().format('MMMM Do YYYY, h:mm:ss a')}</b></h4>
 <a href="https://nayukikuu.xyz">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=rule34"/>
 </a>
@@ -10,7 +10,6 @@
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
-[!test](https://raw.githubusercontent.com/Kuuuuuuuu/github-stats/master/generated/languages.svg)
 
 #### Programming Languages: JS, TS, EJS, PHP, C#, C, JAVA, GO, Some SQL
 #### Frameworks: React.js, Vue.js, Express.js, Svelte, Bootstrap, Tailwind
@@ -24,6 +23,7 @@
     <br>
     <div align="center">
         <a href="https://nayukikuu.xyz">
+           <img src="https://github-readme-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuuuuuuuu&langs_count=15&layout=compact&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
            <br>
            <img src="https://github-profile-trophy.vercel.app/?username=Kuuuuuuuu&row=2&column=4&theme=algolia"/>
