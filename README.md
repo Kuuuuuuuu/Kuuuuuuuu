@@ -1,3 +1,9 @@
+const path = require("path");
+const {writeFileSync} = require("fs");
+const moment = require("moment");
+
+(function () {
+    const text = `<div align="center">
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
 <h4>📝 <b>Last Update: ${moment().format('MMMM Do YYYY, h:mm:ss a')}</b></h4>
 <a href="https://nayukikuu.xyz">
@@ -8,6 +14,7 @@
 <a href="https://nayukikuu.xyz">
     <img src="https://lanyard.cnrad.dev/api/568093374662311956"></a>
 </a>
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg)](https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348)
 
@@ -34,4 +41,6 @@
            <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
         </a>
     </div>
-</details>
+</details>`;
+    writeFileSync(path.join(__dirname, "README.md"), text);
+})();
