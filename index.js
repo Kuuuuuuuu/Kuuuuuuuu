@@ -3,8 +3,13 @@ const {writeFileSync} = require("fs");
 const moment = require("moment");
 
 (function () {
-    const text = `<h3><b>🐱 Welcome to My Profile :3</b></h3>
+
+    fetch("https://api.github.com/users/Kuuuuuuuu").then(re => re.json()).then(data => {
+        const text = `<h3><b>🐱 Welcome to My Profile :3</b></h3>
 <h4>📝 <b>Last Update: ${moment().format('MMMM Do YYYY, h:mm:ss a')}</b></h4>
+<h4>🎂 <b>Followers: ${data.followers}</b></h4>
+<h4>🍪 <b>Following: ${data.following}</b></h4>
+<h4>📖 <b>Public Repo: ${data.public_repos}</b></h4>
 <a href="https://nayukikuu.xyz">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=rule34"/>
 </a>
@@ -38,5 +43,6 @@ const moment = require("moment");
        <img src="https://activity-graph.herokuapp.com/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
     </a>
 </details>`;
-    writeFileSync(path.join(__dirname, "README.md"), text);
+        writeFileSync(path.join(__dirname, "README.md"), text);
+    });
 })();
