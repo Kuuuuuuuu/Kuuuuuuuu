@@ -1,5 +1,6 @@
 const path = require("path");
 const {writeFileSync} = require("fs");
+const fetch = require("node-fetch");
 const moment = require("moment");
 
 (function () {
