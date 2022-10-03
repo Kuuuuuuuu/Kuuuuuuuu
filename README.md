@@ -1,7 +1,7 @@
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
-<h4>📝 <b>Last Update: October 3rd 2022, 10:00:26 pm</b></h4>
+<h4>📝 <b>Last Update: October 3rd 2022, 10:36:38 pm</b></h4>
 <h4>🎂 <b>Followers: 128</b></h4>
-<h4>🍪 <b>Following: 356</b></h4>
+<h4>🍪 <b>Following: 357</b></h4>
 <h4>📖 <b>Public Repo: 76</b></h4>
 <a href="https://nayukikuu.xyz">
     <img src="https://count.getloli.com/get/@MelidaZ?theme=rule34"/>
