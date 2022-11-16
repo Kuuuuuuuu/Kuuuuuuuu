@@ -1,6 +1,6 @@
 <h3><b>🐱 Welcome to My Profile :3</b></h3>
-<h4>📝 <b>Last Update: November 16th 2022, 4:38:17 pm</b></h4>
-<h4>🎂 <b>Followers: 143</b></h4>
+<h4>📝 <b>Last Update: November 16th 2022, 5:01:15 pm</b></h4>
+<h4>🎂 <b>Followers: 142</b></h4>
 <h4>🍪 <b>Following: 393</b></h4>
 <h4>📖 <b>Public Repo: 81</b></h4>
 <a href="https://nayukikuu.xyz">
