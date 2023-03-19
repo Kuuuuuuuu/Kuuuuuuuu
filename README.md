@@ -8,24 +8,22 @@
 <a href="https://nayukikuu.xyz">
     <img alt="count" src="https://komarev.com/ghpvc/?username=MelidaZ&style=for-the-badge"/>
 </a>
-<br/>
+<a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
+</a>
 <br/>
 <a href="https://nayukikuu.xyz">
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/568093374662311956"/>
 </a>
 <br/>
-<a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
-    <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
-</a>
-<br/>
-<br/>
-<h4>My GitHub Stats</h4>
+<h4>📊 My GitHub Stats</h4>
+<h5><b>🕒 Last Update: March 19th 2023, 6:58:06 am UTC</b></h5>
 <ul>
     <li>Followers: 194</li>
     <li>Following: 520</li>
     <li>Public Repo: 90</li>
 </ul>
-<h4>My Programming Skills</h4>
+<h4>🛠️ My Programming Skills</h4>
 <ul>
     <li>Programming Languages: JavaScript, TypeScript, PHP, Java, C#</li>
     <li>Frameworks: React.js, Node.js, Discord.js, Bootstrap, WindiCSS, TailwindCSS</li>
