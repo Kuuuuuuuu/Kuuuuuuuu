@@ -6,7 +6,7 @@
 <h4>📫 Email: <a href="mailto:me@nayukikuu.xyz">me@nayukikuu.xyz</a></h4>
 <hr/>
 <a href="https://nayukikuu.xyz">
-    <img alt="count" src="https://komarev.com/ghpvc/?username=MelidaZ&style=for-the-badge"/>
+    <img alt="count" src="https://gpvc.arturio.dev/Kuuuuuuuu"/>
 </a>
 <a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
     <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
@@ -17,7 +17,7 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: March 21st 2023, 12:44:28 am UTC</b></h5>
+<h5><b>🕒 Last Update: March 21st 2023, 12:48:10 am UTC</b></h5>
 <ul>
     <li>Followers: 194</li>
     <li>Following: 521</li>
