@@ -6,8 +6,10 @@
 <h4>📫 Email: <a href="mailto:me@nayukikuu.xyz">me@nayukikuu.xyz</a></h4>
 <hr/>
 <a href="https://nayukikuu.xyz">
-    <img alt="count" src="https://gpvc.arturio.dev/Kuuuuuuuu"/>
+    <img alt="count" src="https://moe-counter.glitch.me/get/@MelidaZ?theme=rule34"/>
 </a>
+<br/>
+<br/>
 <a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
     <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
 </a>
