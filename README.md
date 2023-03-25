@@ -19,11 +19,11 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: March 25th 2023, 10:00:36 am UTC</b></h5>
+<h5><b>🕒 Last Update: March 25th 2023, 10:30:29 am UTC</b></h5>
 <ul>
-    <li>Followers: 0</li>
-    <li>Following: 0</li>
-    <li>Public Repo: 0</li>
+    <li>Followers: 200</li>
+    <li>Following: 529</li>
+    <li>Public Repo: 90</li>
 </ul>
 <h4>🛠️ My Programming Skills</h4>
 <ul>
