@@ -11,9 +11,9 @@ const moment = require("moment");
 <h4>👋 Welcome to my profile!</h4>
 <h4>👀 I'm Student, Developer and Gamer</h4>
 
-<h4>📫 Email: <a href="mailto:me@nayukikuu.xyz">me@nayukikuu.xyz</a></h4>
+<h4>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h4>
 <hr/>
-<a href="https://nayukikuu.xyz">
+<a href="https://nayuki.cyou">
     <img alt="count" src="https://moe-counter.glitch.me/get/@MelidaZ?theme=rule34"/>
 </a>
 <br/>
@@ -22,7 +22,7 @@ const moment = require("moment");
     <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
 </a>
 <br/>
-<a href="https://nayukikuu.xyz">
+<a href="https://nayuki.cyou">
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/568093374662311956"/>
 </a>
 <br/>
@@ -47,7 +47,7 @@ const moment = require("moment");
     <summary>More Info!</summary>
     <br/>
     <br/>
-    <a href="https://nayukikuu.xyz">
+    <a href="https://nayuki.cyou">
         <div align="center">
             <img alt="github" src="https://github-readme-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
             <br/>
