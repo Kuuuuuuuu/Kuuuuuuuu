@@ -14,12 +14,16 @@
     <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
 </a>
 <br/>
+<a href="https://user-badge.committers.top/thailand/Kuuuuuuuu">
+    <img alt="wakatime" src="https://user-badge.committers.top/thailand/Kuuuuuuuu.svg"/>
+</a>
+<br/>
 <a href="https://nayuki.cyou">
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/568093374662311956"/>
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: June 14th 2023, 9:03:58 pm UTC</b></h5>
+<h5><b>🕒 Last Update: June 14th 2023, 10:52:55 pm UTC</b></h5>
 <ul>
     <li>Followers: 252</li>
     <li>Following: 608</li>
