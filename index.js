@@ -22,6 +22,10 @@ const moment = require("moment");
     <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
 </a>
 <br/>
+<a href="https://user-badge.committers.top/thailand/Kuuuuuuuu">
+    <img alt="wakatime" src="https://user-badge.committers.top/thailand/Kuuuuuuuu.svg"/>
+</a>
+<br/>
 <a href="https://nayuki.cyou">
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/568093374662311956"/>
 </a>
