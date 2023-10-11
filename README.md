@@ -4,6 +4,7 @@
 <h4>👀 I'm Student, Developer and Gamer</h4>
 <h4>⚠️ Disclaimer: I have only one account, which is this one.</h4>
 
+<br/>
 <h5>🌻 Discord: <a href="https://discord.com/users/568093374662311956">@nayuki.</a></h5>
 <h5>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h5>
 <h5>🔗 Website: <a href="https://nayuki.cyou">https://nayuki.cyou</a></h5>
@@ -27,7 +28,7 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: 10/12/2023, 12:04:47 AM</b></h5>
+<h5><b>🕒 Last Update: 10/12/2023, 12:07:20 AM</b></h5>
 <ul>
     <li>Followers: 252</li>
     <li>Following: 647</li>

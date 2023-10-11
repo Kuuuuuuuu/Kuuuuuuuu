@@ -18,6 +18,7 @@ const { writeFile } = require("fs/promises");
 <h4>👀 I'm Student, Developer and Gamer</h4>
 <h4>⚠️ Disclaimer: I have only one account, which is this one.</h4>
 
+<br/>
 <h5>🌻 Discord: <a href="https://discord.com/users/568093374662311956">@nayuki.</a></h5>
 <h5>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h5>
 <h5>🔗 Website: <a href="https://nayuki.cyou">https://nayuki.cyou</a></h5>
