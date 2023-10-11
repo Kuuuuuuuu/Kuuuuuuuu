@@ -1,19 +1,29 @@
 const path = require("path");
-const {writeFile} = require("fs/promises");
-const fetch = require("node-fetch");
-const moment = require("moment");
+const { writeFile } = require("fs/promises");
 
 (async () => {
-    const fetchData = await fetch("https://api.github.com/users/Kuuuuuuuu");
-    const json = await fetchData.json();
+  try {
+    const response = await fetch("https://api.github.com/users/Kuuuuuuuu");
+    if (!response.ok) {
+      throw new Error(`Failed to fetch data. Status: ${response.status}`);
+    }
+    const json = await response.json();
+    if (!json) {
+      throw new Error("Failed to parse JSON data");
+    }
+    const date = new Date();
     const text = `
-<h3><b>Hi there, I'm Kuuuuuuuu</b></h3>
-<h4>👋 Welcome to my profile!</h4>
-<h4>👀 I'm Student, Developer and Gamer</h4>
+<h3><b>Hi there, I'm Nayuki</b></h3>
+<p><b>👋 Welcome to my profile!</b></p>
+<p>👀 I'm Student, Developer and Gamer</p>
+<p>⚠️ Disclaimer: I have only one account, which is this one.</p>
 
+<h4>🌻 Discord: <a href="https://discord.com/users/568093374662311956">@nayuki.</a></h4>
 <h4>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h4>
+<h4>🔗 Website: <a href="https://nayuki.cyou">https://nayuki.cyou</a></h4>
+
 <hr/>
-<a href="https://nayuki.cyou">
+<a href="#">
     <img alt="count" src="https://moe-counter.glitch.me/get/@MelidaZ?theme=rule34"/>
 </a>
 <br/>
@@ -26,24 +36,27 @@ const moment = require("moment");
     <img alt="wakatime" src="https://user-badge.committers.top/thailand/Kuuuuuuuu.svg"/>
 </a>
 <br/>
-<a href="https://nayuki.cyou">
+<a href="#">
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/568093374662311956"/>
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: ${moment().format('MMMM Do YYYY, h:mm:ss a')} UTC</b></h5>
+<h5><b>🕒 Last Update: ${date.toLocaleString("en-US", {
+      timeZone: "Asia/Bangkok",
+    })}</b></h5>
 <ul>
-    <li>Followers: ${json.followers ?? "0"}</li>
-    <li>Following: ${json.following ?? "0"}</li>
-    <li>Public Repo: ${json.public_repos ?? "0"}</li>
+    <li>Followers: ${json.followers}</li>
+    <li>Following: ${json.following}</li>
+    <li>Public Repo: ${json.public_repos}</li>
+    <li>Public Gists: ${json.public_gists}</li>
 </ul>
-<h4>🛠️ My Programming Skills</h4>
+<h4>🛠️ My Dev Stacks</h4>
 <ul>
-    <li>Programming Languages: JavaScript, TypeScript, PHP, Java, C#</li>
-    <li>Frameworks: React.js, Node.js, Discord.js, Bootstrap, WindiCSS, TailwindCSS</li>
-    <li>Tools: Git, Docker</li>
-    <li>IDEs: Intellj IDEA, PHPStorm, Android Studio, Rider</li>
-    <li>Etc: Cloudflare, Vercel, Railway, AWS, Pocketmine-MP, Nukkit, Spigot</li>
+    <li>Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C</li>
+    <li>Frameworks: Vite.js, React.js, Node.js, Discord.js, Bootstrap, Chakra UI, TailwindCSS</li>
+    <li>Tools: Git, Docker, zsh, VSCode</li>
+    <li>IDEs: IntelliJ IDEA, PhpStorm, WebStorm, Rider</li>
+    <li>Etc: Cloudflare, Vercel, Railway, AWS, Snyk, Grafana, MariaDB, PHPMyAdmin</li>
     <li>Currently Learning: Elixir, C++, Flutter, Next.js</li>
 </ul>
 <br/>
@@ -51,7 +64,7 @@ const moment = require("moment");
     <summary>More Info!</summary>
     <br/>
     <br/>
-    <a href="https://nayuki.cyou">
+    <a href="#">
         <div align="center">
             <img alt="github" src="https://github-readme-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
             <br/>
@@ -68,4 +81,8 @@ const moment = require("moment");
     </a>
 </details>`;
     await writeFile(path.join(__dirname, "README.md"), text);
+    console.log("Done");
+  } catch (error) {
+    console.error(error);
+  }
 })();
