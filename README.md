@@ -28,7 +28,7 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: 11/12/2023, 4:57:25 PM</b></h5>
+<h5><b>🕒 Last Update: 11/12/2023, 5:02:34 PM</b></h5>
 <ul>
     <li>Followers: 258</li>
     <li>Following: 662</li>
@@ -56,10 +56,6 @@
             <img alt="github" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuuuuuuuu&langs_count=15&layout=compact&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
             <br/>
             <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Kuuuuuuuu&row=2&column=4&theme=algolia"/>
-            <br/>
-            <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuuuuuuuu&theme=dark&background=191970"/>
-            <br/>
-            <img alt="activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kuuuuuuuu&bg_color=191970&theme=github"/>
             <br/>
             <img alt="repo" src="https://github-contributor-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
         </div>    
