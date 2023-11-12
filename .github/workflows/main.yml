@@ -26,7 +26,7 @@ jobs:
         run: |
           rm -rf node_modules
           git config user.name "${{ secrets.gh_USER }}"
-          git config user.email "${{ secrets.gh_EMAIL }}@users.noreply.github.com"
+          git config user.email "${{ secrets.gh_USER }}@users.noreply.github.com"
           git add .
           git commit -am "Update README.md"
           git push --all -f https://${{ secrets.gh_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
