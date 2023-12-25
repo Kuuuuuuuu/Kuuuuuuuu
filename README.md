@@ -6,8 +6,8 @@
 
 <br/>
 <h5>🌻 Discord: <a href="https://discord.com/users/568093374662311956">@nayuki.</a></h5>
-<h5>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h5>
-<h5>🔗 Website: <a href="https://nayuki.cyou">https://nayuki.cyou</a></h5>
+<h5>📫 Email: <a href="mailto:me@nayuki.cc">me@nayuki.cc</a></h5>
+<h5>🔗 Website: <a href="https://nayuki.cc">https://nayuki.cc</a></h5>
 
 <hr/>
 <a href="#">
@@ -28,7 +28,7 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: 12/26/2023, 2:04:24 AM</b></h5>
+<h5><b>🕒 Last Update: 12/26/2023, 2:06:21 AM</b></h5>
 <ul>
     <li>Followers: 252</li>
     <li>Following: 671</li>
