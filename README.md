@@ -2,12 +2,11 @@
 <h3><b>Hi there, I'm Nayuki</b></h3>
 <h4><b>👋 Welcome to my profile!</b></h4>
 <h4>👀 I'm Student, Developer and Gamer</h4>
-<h4>⚠️ Disclaimer: I have only one account, which is this one.</h4>
 
 <br/>
 <h5>🌻 Discord: <a href="https://discord.com/users/568093374662311956">@nayuki.</a></h5>
-<h5>📫 Email: <a href="mailto:me@nayuki.cc">me@nayuki.cc</a></h5>
-<h5>🔗 Website: <a href="https://nayuki.cc">https://nayuki.cc</a></h5>
+<h5>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h5>
+<h5>🔗 Website: <a href="https://nayuki.cyou">https://nayuki.cyou</a></h5>
 
 <hr/>
 <a href="#">
@@ -28,12 +27,11 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: 12/26/2023, 3:03:30 AM</b></h5>
+<h5><b>🕒 Last Update: 12/26/2023, 3:09:38 AM</b></h5>
 <ul>
     <li>Followers: 252</li>
     <li>Following: 671</li>
     <li>Public Repo: 41</li>
-    <li>Public Gists: 0</li>
 </ul>
 <h4>🛠️ My Dev Stacks</h4>
 <ul>
