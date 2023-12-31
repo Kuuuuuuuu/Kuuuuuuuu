@@ -1,0 +1,186 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta property="og:title" content="Nayuki's 2024 Countdown" />
+    <meta property="og:description" content="Countdown to 2024" />
+    <meta property="og:url" content="https://countdown.nayuki.cyou" />
+    <meta property="og:type" content="website" />
+
+    <title>Nayuki's 2024 Countdown</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Roboto", sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        a {
+            color: #ffffff;
+        }
+
+        body {
+            font-family: "Arial", sans-serif;
+            background: linear-gradient(76deg,
+                    rgba(255, 0, 0, 1) 0%,
+                    rgba(255, 154, 0, 1) 10%,
+                    rgba(208, 222, 33, 1) 20%,
+                    rgba(79, 220, 74, 1) 30%,
+                    rgba(63, 218, 216, 1) 40%,
+                    rgba(47, 201, 226, 1) 50%,
+                    rgba(28, 127, 238, 1) 60%,
+                    rgba(95, 21, 242, 1) 70%,
+                    rgba(186, 12, 248, 1) 80%,
+                    rgba(251, 7, 217, 1) 90%,
+                    rgba(255, 0, 0, 1) 100%);
+            background-size: 400% 400%;
+            animation: gradient 7s ease infinite;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            color: #ffffff;
+        }
+
+        .countdown-container {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        .countdown-el {
+            text-align: center;
+        }
+
+        .big-text {
+            font-size: 2em;
+            font-weight: bold;
+            margin: 0;
+            padding: 0;
+            color: #ffffff;
+        }
+
+        span {
+            font-size: 1.2em;
+            color: #ffffff;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 2.5rem;
+            background-color: #00000052;
+            color: #ffffff;
+            text-align: center;
+            padding-top: 0.5rem;
+        }
+
+        button {
+            background-color: #00000052;
+            color: #ffffff;
+            border: none;
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 id="text">2024 Countdown</h1>
+        <div id="countdown-container" class="countdown-container">
+            <div class="countdown-el days-c">
+                <p class="big-text" id="days">0</p>
+                <span>days</span>
+            </div>
+            <div class="countdown-el hours-c">
+                <p class="big-text" id="hours">0</p>
+                <span>hours</span>
+            </div>
+            <div class="countdown-el mins-c">
+                <p class="big-text" id="mins">0</p>
+                <span>mins</span>
+            </div>
+            <div class="countdown-el seconds-c">
+                <p class="big-text" id="seconds">0</p>
+                <span>seconds</span>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>
+            Made with
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314" />
+            </svg>
+            <a href="https://nayuki.cyou">Nayuki</a>
+        </p>
+    </footer>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const countDownDate = new Date("Jan 1, 2024 00:00:00").getTime();
+
+            const countdownInterval = setInterval(() => {
+                const now = new Date().getTime();
+                const distance = countDownDate - now;
+
+                const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                const hours = Math.floor(
+                    (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+                );
+                const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                document.getElementById("days").innerHTML = days;
+                document.getElementById("hours").innerHTML = hours;
+                document.getElementById("mins").innerHTML = minutes;
+                document.getElementById("seconds").innerHTML = seconds;
+
+                if (distance < 0) {
+                    clearInterval(countdownInterval);
+                    document.getElementById("countdown-container").style.display = "none";
+                    document.getElementById("text").innerText = "Happy New Year!";
+                    document.getElementById("days").innerHTML = "0";
+                    document.getElementById("hours").innerHTML = "0";
+                    document.getElementById("mins").innerHTML = "0";
+                    document.getElementById("seconds").innerHTML = "0";
+                }
+            }, 1000);
+        });
+    </script>
+</body>
+
+</html>
