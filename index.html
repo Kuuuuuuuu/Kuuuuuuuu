@@ -1,186 +1,268 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="og:title" content="Nayuki's 2024 Countdown" />
-    <meta property="og:description" content="Countdown to 2024" />
-    <meta property="og:url" content="https://countdown.nayuki.cyou" />
-    <meta property="og:type" content="website" />
+	<meta property="og:title" content="Nayuki's 2025 Countdown" />
+	<meta property="og:description" content="Countdown to 2025" />
+	<meta property="og:url" content="https://countdown.nayuki.cyou" />
+	<meta property="og:type" content="website" />
 
-    <title>Nayuki's 2025 Countdown</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+	<title>Nayuki's Countdown</title>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
-        body {
-            font-family: "Roboto", sans-serif;
-            background-color: #f5f5f5;
-        }
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			user-select: none;
+			-webkit-tap-highlight-color: transparent;
+			-webkit-touch-callout: unset;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			-o-user-select: none;
+		}
 
-        a {
-            color: #ffffff;
-        }
+		a {
+			color: #ffffff;
+		}
 
-        body {
-            font-family: "Arial", sans-serif;
-            background: linear-gradient(76deg,
-                    rgba(255, 0, 0, 1) 0%,
-                    rgba(255, 154, 0, 1) 10%,
-                    rgba(208, 222, 33, 1) 20%,
-                    rgba(79, 220, 74, 1) 30%,
-                    rgba(63, 218, 216, 1) 40%,
-                    rgba(47, 201, 226, 1) 50%,
-                    rgba(28, 127, 238, 1) 60%,
-                    rgba(95, 21, 242, 1) 70%,
-                    rgba(186, 12, 248, 1) 80%,
-                    rgba(251, 7, 217, 1) 90%,
-                    rgba(255, 0, 0, 1) 100%);
-            background-size: 400% 400%;
-            animation: gradient 7s ease infinite;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
+		a:visited {
+			color: #ffffff;
+		}
 
-        @keyframes gradient {
-            0% {
-                background-position: 0% 50%;
-            }
+		body {
+			background-color: #00000052;
+			font-family: 'Quicksand', sans-serif;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+			margin: 0;
+			overflow: hidden;
 
-            50% {
-                background-position: 100% 50%;
-            }
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
 
-            100% {
-                background-position: 0% 50%;
-            }
-        }
+			text-shadow: 0 0 1px #ffffff;
+			text-rendering: optimizeLegibility;
+		}
 
-        .container {
-            text-align: center;
-        }
+		.wallpaper {
+			background: linear-gradient(76deg,
+					rgba(255, 0, 0, 1) 0%,
+					rgba(255, 154, 0, 1) 10%,
+					rgba(208, 222, 33, 1) 20%,
+					rgba(79, 220, 74, 1) 30%,
+					rgba(63, 218, 216, 1) 40%,
+					rgba(47, 201, 226, 1) 50%,
+					rgba(28, 127, 238, 1) 60%,
+					rgba(95, 21, 242, 1) 70%,
+					rgba(186, 12, 248, 1) 80%,
+					rgba(251, 7, 217, 1) 90%,
+					rgba(255, 0, 0, 1) 100%);
+			animation: gradient 7s ease infinite;
+			background-color: #f5f5f5;
+			background-size: 400% 400%;
+			filter: blur(5px) brightness(0.8) saturate(1.5);
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			z-index: -1;
+		}
 
-        h1 {
-            color: #ffffff;
-        }
+		@keyframes gradient {
+			0% {
+				background-position: 0% 50%;
+			}
 
-        .countdown-container {
-            display: flex;
-            justify-content: space-around;
-            margin-top: 20px;
-        }
+			50% {
+				background-position: 100% 50%;
+			}
 
-        .countdown-el {
-            text-align: center;
-        }
+			100% {
+				background-position: 0% 50%;
+			}
+		}
 
-        .big-text {
-            font-size: 2em;
-            font-weight: bold;
-            margin: 0;
-            padding: 0;
-            color: #ffffff;
-        }
+		.container {
+			text-align: center;
+		}
 
-        span {
-            font-size: 1.2em;
-            color: #ffffff;
-        }
+		h1,
+		h4 {
+			color: #ffffff;
+		}
 
-        footer {
-            position: absolute;
-            bottom: 0;
-            width: 100%;
-            height: 2.5rem;
-            background-color: #00000052;
-            color: #ffffff;
-            text-align: center;
-            padding-top: 0.5rem;
-        }
+		.countdown-container {
+			display: flex;
+			justify-content: space-around;
+			margin-top: 20px;
+		}
 
-        button {
-            background-color: #00000052;
-            color: #ffffff;
-            border: none;
-            padding: 0.5rem 1rem;
-            font-size: 1rem;
-            border-radius: 0.5rem;
-            cursor: pointer;
-            margin-top: 1rem;
-        }
-    </style>
+		.countdown-el {
+			text-align: center;
+		}
+
+		.big-text {
+			font-size: 2em;
+			font-weight: bold;
+			margin: 0 0 0 0.45rem;
+			padding: 0;
+			color: #ffffff;
+		}
+
+		span {
+			font-size: 1.2em;
+			color: #ffffff;
+		}
+
+		footer {
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			height: 3.0rem;
+			background-color: #00000052;
+			color: #ffffff;
+			text-align: center;
+			padding-top: 0.5rem;
+		}
+
+		button {
+			background-color: #00000052;
+			color: #ffffff;
+			border: none;
+			padding: 0.5rem 1rem;
+			font-size: 1rem;
+			border-radius: 0.5rem;
+			cursor: pointer;
+			margin-top: 1rem;
+		}
+
+		.ripple {
+			width: 10px;
+			height: 10px;
+			background-color: transparent;
+			position: fixed;
+			border-radius: 50%;
+			border: 1px solid #ffffff59;
+		}
+
+		@keyframes ripple-effect {
+			to {
+				transform: scale(15);
+				opacity: 0.01;
+			}
+		}
+	</style>
 </head>
 
 <body>
-    <div class="container">
-        <h1 id="text">2025 Countdown</h1>
-        <div id="countdown-container" class="countdown-container">
-            <div class="countdown-el days-c">
-                <p class="big-text" id="days">0</p>
-                <span>days</span>
-            </div>
-            <div class="countdown-el hours-c">
-                <p class="big-text" id="hours">0</p>
-                <span>hours</span>
-            </div>
-            <div class="countdown-el mins-c">
-                <p class="big-text" id="mins">0</p>
-                <span>mins</span>
-            </div>
-            <div class="countdown-el seconds-c">
-                <p class="big-text" id="seconds">0</p>
-                <span>seconds</span>
-            </div>
-        </div>
-    </div>
-    <footer>
-        <p>
-            Made with
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" viewBox="0 0 16 16">
-                <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314" />
-            </svg>
-            <a href="https://nayuki.cyou">Nayuki</a>
-        </p>
-    </footer>
-    <script>
-        document.addEventListener("DOMContentLoaded", () => {
-            const countDownDate = new Date("Jan 1, 2025 00:00:00").getTime();
+	<div class="container">
+		<div class="wallpaper"></div>
+		<h1 id="text">2025 Countdown</h1>
+		<h4><a href="https://countdown.nayuki.cyou">https://countdown.nayuki.cyou</a></h4>
+		<div id="countdown-container" class="countdown-container">
+			<div class="countdown-el days-c">
+				<p class="big-text" id="days">0</p>
+				<span>days</span>
+			</div>
+			<div class="countdown-el hours-c">
+				<p class="big-text" id="hours">0</p>
+				<span>hours</span>
+			</div>
+			<div class="countdown-el mins-c">
+				<p class="big-text" id="mins">0</p>
+				<span>mins</span>
+			</div>
+			<div class="countdown-el seconds-c">
+				<p class="big-text" id="seconds">0</p>
+				<span>seconds</span>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<p>
+			Made with
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="red" viewBox="0 0 16 16">
+				<path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314" />
+			</svg>
+			<a href="https://nayuki.cyou">Nayuki</a> &nbsp;|&nbsp;
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 16 16" fill="white">
+				<path
+					d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8" />
+			</svg>
+			<a href="https://github.com/Kuuuuuuuu">Github</a>
+		</p>
+	</footer>
+	<script>
+		const nextYear = new Date().getFullYear() + 1;
+		document.addEventListener("DOMContentLoaded", () => {
+			const countdownContainer = document.getElementById("countdown-container");
+			const textElement = document.getElementById("text");
+			const daysElement = document.getElementById("days");
+			const hoursElement = document.getElementById("hours");
+			const minsElement = document.getElementById("mins");
+			const secondsElement = document.getElementById("seconds");
 
-            const countdownInterval = setInterval(() => {
-                const now = new Date().getTime();
-                const distance = countDownDate - now;
+			const updateCountdown = () => {
+				document.title = `Countdown to ${nextYear}`;
 
-                const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                const hours = Math.floor(
-                    (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-                );
-                const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+				const countDownDate = new Date(`Jan 1, ${nextYear} 00:00:00`).getTime();
+				const now = new Date().getTime();
+				const distance = countDownDate - now;
 
-                document.getElementById("days").innerHTML = days;
-                document.getElementById("hours").innerHTML = hours;
-                document.getElementById("mins").innerHTML = minutes;
-                document.getElementById("seconds").innerHTML = seconds;
+				const formatTime = (time) => (time < 10 ? `0${time}` : time);
 
-                if (distance < 0) {
-                    clearInterval(countdownInterval);
-                    document.getElementById("countdown-container").style.display = "none";
-                    document.getElementById("text").innerText = "Happy New Year!";
-                    document.getElementById("days").innerHTML = "0";
-                    document.getElementById("hours").innerHTML = "0";
-                    document.getElementById("mins").innerHTML = "0";
-                    document.getElementById("seconds").innerHTML = "0";
-                }
-            }, 1000);
-        });
-    </script>
+				const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+				const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+				const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+				const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+				daysElement.innerHTML = formatTime(days);
+				hoursElement.innerHTML = formatTime(hours);
+				minsElement.innerHTML = formatTime(minutes);
+				secondsElement.innerHTML = formatTime(seconds);
+
+				if (distance < 0) {
+					clearInterval(countdownInterval);
+					countdownContainer.style.display = "none";
+					textElement.innerText = "Happy New Year!";
+					daysElement.innerHTML = "0";
+					hoursElement.innerHTML = "0";
+					minsElement.innerHTML = "0";
+					secondsElement.innerHTML = "0";
+				}
+			};
+
+			document.body.addEventListener("click", event => {
+				const ripple = document.createElement("div");
+				ripple.className = "ripple";
+				document.body.appendChild(ripple);
+
+				const x = event.clientX;
+				const y = event.clientY;
+
+				ripple.style.left = x + "px";
+				ripple.style.top = y + "px";
+				ripple.style.animation = "ripple-effect 0.4s linear";
+
+				ripple.addEventListener("animationend", () => {
+					document.body.removeChild(ripple);
+				});
+			});
+
+			updateCountdown();
+            
+			const countdownInterval = setInterval(updateCountdown, 1000);
+		});
+	</script>
 </body>
 
 </html>
