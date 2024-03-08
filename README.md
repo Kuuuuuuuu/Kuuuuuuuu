@@ -4,7 +4,7 @@
 <h4>👀 I'm Student, Developer and Gamer</h4>
 
 <br/>
-<h5>🌻 Discord: <a href="https://discord.com/users/568093374662311956">@nayuki.</a></h5>
+<h5>🌻 Discord: <a href="https://discord.com/users/505777744710336542">@chinamii. (My main account got disabled, and I'm not sure if it will survive or not. Please pray for me 😭)</a></h5>
 <h5>📫 Email: <a href="mailto:me@nayuki.cyou">me@nayuki.cyou</a></h5>
 <h5>🔗 Website: <a href="https://nayuki.cyou">https://nayuki.cyou</a></h5>
 
@@ -23,11 +23,11 @@
 </a>
 <br/>
 <a href="#">
-    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/568093374662311956"/>
+    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/505777744710336542"/>
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Update: 3/9/2024, 2:32:25 AM</b></h5>
+<h5><b>🕒 Last Updated: 3/9/2024, 2:53:29 AM</b></h5>
 <ul>
     <li>Followers: 266</li>
     <li>Following: 706</li>
