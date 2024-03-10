@@ -27,10 +27,10 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Updated: 3/10/2024, 2:32:26 PM</b></h5>
+<h5><b>🕒 Last Updated: 3/10/2024, 3:03:29 PM</b></h5>
 <ul>
     <li>Followers: 267</li>
-    <li>Following: 707</li>
+    <li>Following: 708</li>
     <li>Public Repo: 39</li>
 </ul>
 <h4>🛠️ My Dev Stacks</h4>
