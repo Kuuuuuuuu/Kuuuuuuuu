@@ -27,9 +27,9 @@
 </a>
 <br/>
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Updated: 3/10/2024, 9:34:09 AM</b></h5>
+<h5><b>🕒 Last Updated: 3/10/2024, 10:03:12 AM</b></h5>
 <ul>
-    <li>Followers: 268</li>
+    <li>Followers: 267</li>
     <li>Following: 707</li>
     <li>Public Repo: 39</li>
 </ul>
