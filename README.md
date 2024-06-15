@@ -1,6 +1,6 @@
 
 <h3><b>Hi 👋, I'm Nayuki</b></h3>
-<h4>A Student, Gamer, Developer from Thailand 💕</h4>
+<h4>A student, gamer, and developer from Thailand 💕</h4>
 <br />
 <img align="left" height="150" src="https://raw.githubusercontent.com/Kuuuuuuuu/Kuuuuuuuu/main/imgs/bocchi.png" />
 
@@ -28,7 +28,7 @@
 </a>
 <br />
 <h4>📊 My GitHub Stats</h4>
-<h5><b>🕒 Last Updated: 6/16/2024, 12:02:18 AM</b></h5>
+<h5><b>🕒 Last Updated: 6/16/2024, 12:09:14 AM</b></h5>
 <ul>
   <li>Followers: 290</li>
   <li>Following: 731</li>
