@@ -20,7 +20,6 @@ jobs:
       - name: "2"
         run: |
           cd ${GITHUB_WORKSPACE}/
-          npm i
           node index.js
       - name: "3"
         run: |
