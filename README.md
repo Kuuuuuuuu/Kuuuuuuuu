@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/505777744710336542' width="380" height="190" />
+  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/505777744710336542' />
 </div>
 
 <details>
@@ -57,8 +57,8 @@
 
 <ul>
   <li>🌟 Followers: 321</li>
-  <li>📚 Following: 751</li>
+  <li>📚 Following: 752</li>
   <li>📂 Public Repos: 19</li>
 </ul>
 
-<h5><i>🕒 Last Updated: 12/13/2024, 7:44:43 PM (GMT+7)</i></h5>
+<h5><i>🕒 Last Updated: 12/13/2024, 8:09:46 PM (GMT+7)</i></h5>
