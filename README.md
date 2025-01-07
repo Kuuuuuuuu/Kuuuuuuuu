@@ -56,9 +56,9 @@
 ### 🔗 Connect with Me
 
 <ul>
-  <li>🌟 Followers: 328</li>
+  <li>🌟 Followers: 327</li>
   <li>📚 Following: 759</li>
   <li>📂 Public Repos: 17</li>
 </ul>
 
-<h5><i>🕒 Last Updated: 1/8/2025, 12:03:27 AM (GMT+7)</i></h5>
+<h5><i>🕒 Last Updated: 1/8/2025, 12:33:31 AM (GMT+7)</i></h5>
