@@ -57,8 +57,8 @@
 
 <ul>
   <li>🌟 Followers: 322</li>
-  <li>📚 Following: 758</li>
+  <li>📚 Following: 757</li>
   <li>📂 Public Repos: 17</li>
 </ul>
 
-<h5><i>🕒 Last Updated: 2/6/2025, 5:35:14 AM (GMT+7)</i></h5>
+<h5><i>🕒 Last Updated: 2/6/2025, 6:03:27 AM (GMT+7)</i></h5>
