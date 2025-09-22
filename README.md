@@ -1,64 +1,19 @@
-
-<h2 align="center">Hi there, I'm <b>Nayuki</b> 👋</h2>
-<h4 align="center">A student, gamer, and developer from Thailand 💕</h4>
-
-<div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Kuuuuuuuu/Kuuuuuuuu/main/imgs/tippy.png" height="150" alt="Nayuki's avatar" />
-</div>
-
-<br />
-
-<div align="center">
-  <p>🌸 <b>Discord:</b> <a href='https://discord.com/users/505777744710336542'>@nayuki.</a></p>
-  <p>🎀 <b>Email:</b> <a href='mailto:me@nayuki.cyou'>me@nayuki.cyou</a></p>
-  <p>🌷 <b>Website:</b> <a href='https://nayuki.cyou'>nayuki.cyou</a></p>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="#">
-    <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@MelidaZ?theme=moebooru' />
+## Nayuki ‪‪❤︎‬
+#### ⤷ I love overengineering things… especially code! also Hop over to my website for more! ૮ • ﻌ - ა
+<br/>
+<div align="left">
+  <img alt="Profile Views" src="https://count.getloli.com/@MelidaZ?name=MelidaZ&theme=original-new&padding=7&offset=0&align=center&scale=0.8&pixelated=1&darkmode=1" />
+  <br/>
+  <a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
+    <img alt="WakaTime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg" />
   </a>
-  <br />
-  <a href='https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348'>
-    <img alt='WakaTime' src='https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg' />
+  <a href="https://user-badge.committers.top/thailand/Kuuuuuuuu">
+    <img alt="Commit Ranking" src="https://user-badge.committers.top/thailand/Kuuuuuuuu.svg" />
   </a>
-  <a href='https://user-badge.committers.top/thailand/Kuuuuuuuu'>
-    <img alt='Commit Ranking' src='https://user-badge.committers.top/thailand/Kuuuuuuuu.svg' />
-  </a>
+  <br/>
+  <br/>
+  <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/505777744710336542?idleMessage=eepy%20%E1%B6%BB%20%F0%9D%97%93%20%F0%90%B0%81&borderRadius=14px&theme=dark" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,py,java,cs,php,go,nodejs,express,elysia,discordjs,react,astro,vite,bun,sass,tailwind,styledcomponents,mysql,redis,prisma,docker,cloudflare,heroku,firebase,vercel,netlify,grafana,sentry&theme=dark&perline=14" alt="Skills" />
 </div>
-
-<div align="center">
-  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/505777744710336542' />
-</div>
-
-<details>
-  <summary>🔍 <b>More About My GitHub</b></summary>
-  <br />
-  <div align="center">
-    <img alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord' />
-    <br />
-    <img alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs?username=Kuuuuuuuu&langs_count=8&layout=compact&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord' />
-    <br />
-    <img alt='GitHub Trophies' src='https://github-profile-trophy.vercel.app/?username=Kuuuuuuuu&row=1&column=6&theme=algolia' />
-    <br />
-    <img alt='Contributor Stats' src='https://github-contributor-stats.vercel.app/api?username=Kuuuuuuuu&show_icons=true&include_all_commits=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord' />
-    <br />
-    <img alt='WakaTime Stats' src='https://github-readme-stats.vercel.app/api/wakatime?username=Nayuki&layout=compact&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord' />
-  </div>
-</details>
-
----
-
-### 🔗 Connect with Me
-
-<ul>
-  <li>🌟 Followers: 340</li>
-  <li>📚 Following: 772</li>
-  <li>📂 Public Repos: 17</li>
-</ul>
-
-<h5><i>🕒 Last Updated: 9/23/2025, 5:33:55 AM (GMT+7)</i></h5>
