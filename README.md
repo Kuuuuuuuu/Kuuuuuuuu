@@ -18,6 +18,6 @@
     <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/505777744710336542?idleMessage=eepy%20%E1%B6%BB%20%F0%9D%97%93%20%F0%90%B0%81&borderRadius=14px&theme=dark" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=ts,py,java,cs,php,go,nodejs,express,elysia,discordjs,react,astro,vite,bun,sass,tailwind,styledcomponents,mysql,redis,prisma,docker,cloudflare,heroku,firebase,vercel,netlify,grafana,sentry&theme=dark&perline=14" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,py,java,cs,php,go,nodejs,express,elysia,discordjs,react,astro,vite,bun,sass,tailwind,styledcomponents,mysql,redis,prisma,docker,cloudflare,heroku,firebase,netlify,grafana,sentry&theme=dark&perline=14" alt="Skills" />
   </a>
 </div>
